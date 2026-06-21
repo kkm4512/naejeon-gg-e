@@ -1,0 +1,4 @@
+requests
+python-dotenv
+firebase-admin
+urllib3

@@ -1,0 +1,468 @@
+{
+  "runes": [
+    {
+      "perk3": 0,
+      "summoner": "수빈몬스터",
+      "perkSubStyle": 0,
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 1,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "perkSubStyle": 0,
+      "summoner": "아하아하",
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 2,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "summoner": "최승남",
+      "perkSubStyle": 0,
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 3,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "perkSubStyle": 0,
+      "summoner": "아흣아흣",
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 4,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "summoner": "쌔뙤크",
+      "perkSubStyle": 0,
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 5,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "perkSubStyle": 0,
+      "summoner": "Time to Mute ALL",
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 6,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "perkSubStyle": 0,
+      "summoner": "내전아저씨",
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 7,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "summoner": "마 루",
+      "perkSubStyle": 0,
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 8,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "summoner": "나는야서짜르트지휘를하지",
+      "perkSubStyle": 0,
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 9,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "summoner": "자신있게싸우자",
+      "perkSubStyle": 0,
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 10,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    }
+  ],
+  "graphs": {
+    "assists_per_player": [
+      {
+        "assists": 17,
+        "summoner": "수빈몬스터"
+      },
+      {
+        "assists": 20,
+        "summoner": "아하아하"
+      },
+      {
+        "assists": 28,
+        "summoner": "최승남"
+      },
+      {
+        "assists": 16,
+        "summoner": "아흣아흣"
+      },
+      {
+        "assists": 39,
+        "summoner": "쌔뙤크"
+      },
+      {
+        "assists": 30,
+        "summoner": "Time to Mute ALL"
+      },
+      {
+        "assists": 23,
+        "summoner": "내전아저씨"
+      },
+      {
+        "assists": 21,
+        "summoner": "마 루"
+      },
+      {
+        "assists": 19,
+        "summoner": "나는야서짜르트지휘를하지"
+      },
+      {
+        "assists": 32,
+        "summoner": "자신있게싸우자"
+      }
+    ],
+    "deaths_per_player": [
+      {
+        "summoner": "수빈몬스터",
+        "deaths": 11
+      },
+      {
+        "summoner": "아하아하",
+        "deaths": 9
+      },
+      {
+        "summoner": "최승남",
+        "deaths": 10
+      },
+      {
+        "summoner": "아흣아흣",
+        "deaths": 12
+      },
+      {
+        "summoner": "쌔뙤크",
+        "deaths": 13
+      },
+      {
+        "summoner": "Time to Mute ALL",
+        "deaths": 9
+      },
+      {
+        "summoner": "내전아저씨",
+        "deaths": 15
+      },
+      {
+        "summoner": "마 루",
+        "deaths": 9
+      },
+      {
+        "summoner": "나는야서짜르트지휘를하지",
+        "deaths": 10
+      },
+      {
+        "summoner": "자신있게싸우자",
+        "deaths": 8
+      }
+    ],
+    "kills_per_player": [
+      {
+        "summoner": "수빈몬스터",
+        "kills": 18
+      },
+      {
+        "summoner": "아하아하",
+        "kills": 12
+      },
+      {
+        "summoner": "최승남",
+        "kills": 7
+      },
+      {
+        "summoner": "아흣아흣",
+        "kills": 11
+      },
+      {
+        "summoner": "쌔뙤크",
+        "kills": 3
+      },
+      {
+        "summoner": "Time to Mute ALL",
+        "kills": 6
+      },
+      {
+        "summoner": "내전아저씨",
+        "kills": 18
+      },
+      {
+        "summoner": "마 루",
+        "kills": 7
+      },
+      {
+        "summoner": "나는야서짜르트지휘를하지",
+        "kills": 19
+      },
+      {
+        "summoner": "자신있게싸우자",
+        "kills": 5
+      }
+    ],
+    "gold_per_player": [
+      {
+        "summoner": "수빈몬스터",
+        "gold": 17137
+      },
+      {
+        "summoner": "아하아하",
+        "gold": 15872
+      },
+      {
+        "summoner": "최승남",
+        "gold": 15308
+      },
+      {
+        "summoner": "아흣아흣",
+        "gold": 17274
+      },
+      {
+        "summoner": "쌔뙤크",
+        "gold": 14806
+      },
+      {
+        "summoner": "Time to Mute ALL",
+        "gold": 15218
+      },
+      {
+        "summoner": "내전아저씨",
+        "gold": 17496
+      },
+      {
+        "summoner": "마 루",
+        "gold": 14600
+      },
+      {
+        "summoner": "나는야서짜르트지휘를하지",
+        "gold": 17883
+      },
+      {
+        "summoner": "자신있게싸우자",
+        "gold": 15779
+      }
+    ]
+  },
+  "overview": {
+    "gameType": "CUSTOM_GAME",
+    "teamBans": {
+      "100": [],
+      "200": []
+    },
+    "banSummary": "No bans recorded",
+    "gameMode": "KIWI",
+    "gameDuration": 1041,
+    "teams": [
+      {
+        "teamId": 100,
+        "firstBlood": false,
+        "bans": [],
+        "baronKills": 0,
+        "inhibitorKills": 0,
+        "firstBaron": false,
+        "dragonKills": 0,
+        "firstInhibitor": false,
+        "riftHeraldKills": 0,
+        "vilemawKills": 0,
+        "hordeKills": 0,
+        "firstDargon": false,
+        "win": "Fail",
+        "firstTower": true,
+        "towerKills": 1,
+        "dominionVictoryScore": 0
+      },
+      {
+        "teamId": 200,
+        "firstBlood": true,
+        "bans": [],
+        "baronKills": 0,
+        "inhibitorKills": 1,
+        "firstBaron": false,
+        "dragonKills": 0,
+        "firstInhibitor": true,
+        "riftHeraldKills": 0,
+        "vilemawKills": 0,
+        "hordeKills": 0,
+        "firstDargon": false,
+        "win": "Win",
+        "firstTower": false,
+        "towerKills": 2,
+        "dominionVictoryScore": 0
+      }
+    ],
+    "queueId": 3270,
+    "gameCreationDate": "2025-12-14T11:34:57.597Z",
+    "gameId": 7965951717,
+    "mapId": 12
+  },
+  "stats": [
+    {
+      "deaths": 11,
+      "totalDamageDealtToChampions": 27627,
+      "assists": 17,
+      "summoner": "수빈몬스터",
+      "win": false,
+      "teamId": 100,
+      "championId": 800,
+      "participantId": 1,
+      "goldEarned": 17137,
+      "kills": 18
+    },
+    {
+      "deaths": 9,
+      "win": false,
+      "assists": 20,
+      "summoner": "아하아하",
+      "totalDamageDealtToChampions": 41429,
+      "teamId": 100,
+      "championId": 86,
+      "participantId": 2,
+      "goldEarned": 15872,
+      "kills": 12
+    },
+    {
+      "kills": 7,
+      "totalDamageDealtToChampions": 34408,
+      "win": false,
+      "summoner": "최승남",
+      "assists": 28,
+      "teamId": 100,
+      "championId": 8,
+      "participantId": 3,
+      "goldEarned": 15308,
+      "deaths": 10
+    },
+    {
+      "kills": 11,
+      "win": false,
+      "assists": 16,
+      "summoner": "아흣아흣",
+      "totalDamageDealtToChampions": 46747,
+      "teamId": 100,
+      "championId": 804,
+      "participantId": 4,
+      "goldEarned": 17274,
+      "deaths": 12
+    },
+    {
+      "kills": 3,
+      "assists": 39,
+      "teamId": 100,
+      "summoner": "쌔뙤크",
+      "win": false,
+      "totalDamageDealtToChampions": 19201,
+      "championId": 44,
+      "participantId": 5,
+      "goldEarned": 14806,
+      "deaths": 13
+    },
+    {
+      "deaths": 9,
+      "win": true,
+      "assists": 30,
+      "summoner": "Time to Mute ALL",
+      "kills": 6,
+      "totalDamageDealtToChampions": 37382,
+      "championId": 103,
+      "participantId": 6,
+      "goldEarned": 15218,
+      "teamId": 200
+    },
+    {
+      "kills": 18,
+      "assists": 23,
+      "totalDamageDealtToChampions": 47636,
+      "summoner": "내전아저씨",
+      "win": true,
+      "teamId": 200,
+      "championId": 91,
+      "participantId": 7,
+      "goldEarned": 17496,
+      "deaths": 15
+    },
+    {
+      "teamId": 200,
+      "assists": 21,
+      "totalDamageDealtToChampions": 24032,
+      "summoner": "마 루",
+      "win": true,
+      "deaths": 9,
+      "championId": 31,
+      "participantId": 8,
+      "goldEarned": 14600,
+      "kills": 7
+    },
+    {
+      "kills": 19,
+      "totalDamageDealtToChampions": 40400,
+      "assists": 19,
+      "summoner": "나는야서짜르트지휘를하지",
+      "teamId": 200,
+      "win": true,
+      "championId": 41,
+      "participantId": 9,
+      "goldEarned": 17883,
+      "deaths": 10
+    },
+    {
+      "deaths": 8,
+      "assists": 32,
+      "win": true,
+      "summoner": "자신있게싸우자",
+      "totalDamageDealtToChampions": 40434,
+      "kills": 5,
+      "championId": 901,
+      "participantId": 10,
+      "goldEarned": 15779,
+      "teamId": 200
+    }
+  ]
+}

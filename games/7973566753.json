@@ -1,0 +1,468 @@
+{
+  "runes": [
+    {
+      "perk3": 0,
+      "perkSubStyle": 0,
+      "summoner": "무성무성",
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 1,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "summoner": "정글 망겜",
+      "perkSubStyle": 0,
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 2,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "summoner": "스칼을 탄 클레드 왕자님",
+      "perkSubStyle": 0,
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 3,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "perkSubStyle": 0,
+      "summoner": "수빈몬스터",
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 4,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "summoner": "듀오점",
+      "perkSubStyle": 0,
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 5,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "perkSubStyle": 0,
+      "summoner": "동탄동82세엄준식",
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 6,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "perkSubStyle": 0,
+      "summoner": "쌔뙤크",
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 7,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "summoner": "아하아하",
+      "perkSubStyle": 0,
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 8,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "perkSubStyle": 0,
+      "summoner": "내전아저씨",
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 9,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "summoner": "아흣아흣",
+      "perkSubStyle": 0,
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 10,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    }
+  ],
+  "graphs": {
+    "assists_per_player": [
+      {
+        "assists": 45,
+        "summoner": "무성무성"
+      },
+      {
+        "assists": 20,
+        "summoner": "정글 망겜"
+      },
+      {
+        "assists": 25,
+        "summoner": "스칼을 탄 클레드 왕자님"
+      },
+      {
+        "assists": 35,
+        "summoner": "수빈몬스터"
+      },
+      {
+        "assists": 38,
+        "summoner": "듀오점"
+      },
+      {
+        "assists": 46,
+        "summoner": "동탄동82세엄준식"
+      },
+      {
+        "assists": 46,
+        "summoner": "쌔뙤크"
+      },
+      {
+        "assists": 34,
+        "summoner": "아하아하"
+      },
+      {
+        "assists": 31,
+        "summoner": "내전아저씨"
+      },
+      {
+        "assists": 18,
+        "summoner": "아흣아흣"
+      }
+    ],
+    "deaths_per_player": [
+      {
+        "summoner": "무성무성",
+        "deaths": 8
+      },
+      {
+        "summoner": "정글 망겜",
+        "deaths": 19
+      },
+      {
+        "summoner": "스칼을 탄 클레드 왕자님",
+        "deaths": 17
+      },
+      {
+        "summoner": "수빈몬스터",
+        "deaths": 19
+      },
+      {
+        "summoner": "듀오점",
+        "deaths": 14
+      },
+      {
+        "summoner": "동탄동82세엄준식",
+        "deaths": 11
+      },
+      {
+        "summoner": "쌔뙤크",
+        "deaths": 12
+      },
+      {
+        "summoner": "아하아하",
+        "deaths": 20
+      },
+      {
+        "summoner": "내전아저씨",
+        "deaths": 11
+      },
+      {
+        "summoner": "아흣아흣",
+        "deaths": 17
+      }
+    ],
+    "kills_per_player": [
+      {
+        "summoner": "무성무성",
+        "kills": 11
+      },
+      {
+        "summoner": "정글 망겜",
+        "kills": 23
+      },
+      {
+        "summoner": "스칼을 탄 클레드 왕자님",
+        "kills": 13
+      },
+      {
+        "summoner": "수빈몬스터",
+        "kills": 11
+      },
+      {
+        "summoner": "듀오점",
+        "kills": 13
+      },
+      {
+        "summoner": "동탄동82세엄준식",
+        "kills": 2
+      },
+      {
+        "summoner": "쌔뙤크",
+        "kills": 9
+      },
+      {
+        "summoner": "아하아하",
+        "kills": 17
+      },
+      {
+        "summoner": "내전아저씨",
+        "kills": 26
+      },
+      {
+        "summoner": "아흣아흣",
+        "kills": 23
+      }
+    ],
+    "gold_per_player": [
+      {
+        "summoner": "무성무성",
+        "gold": 25519
+      },
+      {
+        "summoner": "정글 망겜",
+        "gold": 27190
+      },
+      {
+        "summoner": "스칼을 탄 클레드 왕자님",
+        "gold": 24878
+      },
+      {
+        "summoner": "수빈몬스터",
+        "gold": 25135
+      },
+      {
+        "summoner": "듀오점",
+        "gold": 26973
+      },
+      {
+        "summoner": "동탄동82세엄준식",
+        "gold": 23214
+      },
+      {
+        "summoner": "쌔뙤크",
+        "gold": 25125
+      },
+      {
+        "summoner": "아하아하",
+        "gold": 25898
+      },
+      {
+        "summoner": "내전아저씨",
+        "gold": 29529
+      },
+      {
+        "summoner": "아흣아흣",
+        "gold": 28057
+      }
+    ]
+  },
+  "overview": {
+    "gameType": "CUSTOM_GAME",
+    "teamBans": {
+      "100": [],
+      "200": []
+    },
+    "gameMode": "KIWI",
+    "banSummary": "No bans recorded",
+    "gameDuration": 1610,
+    "teams": [
+      {
+        "dominionVictoryScore": 0,
+        "firstBlood": true,
+        "bans": [],
+        "baronKills": 0,
+        "inhibitorKills": 0,
+        "firstBaron": false,
+        "dragonKills": 0,
+        "win": "Fail",
+        "riftHeraldKills": 0,
+        "vilemawKills": 0,
+        "hordeKills": 0,
+        "firstDargon": false,
+        "firstInhibitor": false,
+        "firstTower": false,
+        "towerKills": 2,
+        "teamId": 100
+      },
+      {
+        "teamId": 200,
+        "firstBlood": false,
+        "bans": [],
+        "baronKills": 0,
+        "inhibitorKills": 3,
+        "firstBaron": false,
+        "dragonKills": 0,
+        "win": "Win",
+        "riftHeraldKills": 0,
+        "vilemawKills": 0,
+        "hordeKills": 0,
+        "firstDargon": false,
+        "firstInhibitor": true,
+        "firstTower": true,
+        "towerKills": 4,
+        "dominionVictoryScore": 0
+      }
+    ],
+    "queueId": 3270,
+    "gameCreationDate": "2025-12-18T14:21:23.259Z",
+    "gameId": 7973566753,
+    "mapId": 12
+  },
+  "stats": [
+    {
+      "teamId": 100,
+      "assists": 45,
+      "win": false,
+      "summoner": "무성무성",
+      "totalDamageDealtToChampions": 97137,
+      "deaths": 8,
+      "championId": 115,
+      "participantId": 1,
+      "goldEarned": 25519,
+      "kills": 11
+    },
+    {
+      "deaths": 19,
+      "totalDamageDealtToChampions": 46960,
+      "win": false,
+      "summoner": "정글 망겜",
+      "assists": 20,
+      "kills": 23,
+      "championId": 35,
+      "participantId": 2,
+      "goldEarned": 27190,
+      "teamId": 100
+    },
+    {
+      "teamId": 100,
+      "assists": 25,
+      "totalDamageDealtToChampions": 49293,
+      "summoner": "스칼을 탄 클레드 왕자님",
+      "win": false,
+      "kills": 13,
+      "championId": 234,
+      "participantId": 3,
+      "goldEarned": 24878,
+      "deaths": 17
+    },
+    {
+      "deaths": 19,
+      "assists": 35,
+      "totalDamageDealtToChampions": 43570,
+      "summoner": "수빈몬스터",
+      "win": false,
+      "kills": 11,
+      "championId": 238,
+      "participantId": 4,
+      "goldEarned": 25135,
+      "teamId": 100
+    },
+    {
+      "kills": 13,
+      "totalDamageDealtToChampions": 84184,
+      "win": false,
+      "summoner": "듀오점",
+      "deaths": 14,
+      "assists": 38,
+      "championId": 221,
+      "participantId": 5,
+      "goldEarned": 26973,
+      "teamId": 100
+    },
+    {
+      "teamId": 200,
+      "win": true,
+      "totalDamageDealtToChampions": 15923,
+      "summoner": "동탄동82세엄준식",
+      "assists": 46,
+      "kills": 2,
+      "championId": 412,
+      "participantId": 6,
+      "goldEarned": 23214,
+      "deaths": 11
+    },
+    {
+      "kills": 9,
+      "assists": 46,
+      "totalDamageDealtToChampions": 32395,
+      "summoner": "쌔뙤크",
+      "teamId": 200,
+      "win": true,
+      "championId": 897,
+      "participantId": 7,
+      "goldEarned": 25125,
+      "deaths": 12
+    },
+    {
+      "kills": 17,
+      "win": true,
+      "totalDamageDealtToChampions": 66955,
+      "summoner": "아하아하",
+      "assists": 34,
+      "teamId": 200,
+      "championId": 12,
+      "participantId": 8,
+      "goldEarned": 25898,
+      "deaths": 20
+    },
+    {
+      "teamId": 200,
+      "totalDamageDealtToChampions": 87997,
+      "assists": 31,
+      "summoner": "내전아저씨",
+      "win": true,
+      "kills": 26,
+      "championId": 8,
+      "participantId": 9,
+      "goldEarned": 29529,
+      "deaths": 11
+    },
+    {
+      "teamId": 200,
+      "totalDamageDealtToChampions": 51121,
+      "win": true,
+      "summoner": "아흣아흣",
+      "assists": 18,
+      "deaths": 17,
+      "championId": 166,
+      "participantId": 10,
+      "goldEarned": 28057,
+      "kills": 23
+    }
+  ]
+}

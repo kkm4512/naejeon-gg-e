@@ -1,0 +1,597 @@
+{
+  "runes": [
+    {
+      "perk3": 8105,
+      "perkSubStyle": 8400,
+      "summoner": "아하아하",
+      "perk1": 8143,
+      "perk4": 8453,
+      "perk2": 8140,
+      "perk5": 8473,
+      "participantId": 1,
+      "perkPrimaryStyle": 8100,
+      "perk0": 8128
+    },
+    {
+      "perk3": 8236,
+      "perkSubStyle": 8000,
+      "summoner": "쌔뙤크",
+      "perk1": 8224,
+      "perk4": 9111,
+      "perk2": 8210,
+      "perk5": 9105,
+      "participantId": 2,
+      "perkPrimaryStyle": 8200,
+      "perk0": 8229
+    },
+    {
+      "perk3": 8014,
+      "summoner": "나는야서짜르트지휘를하지",
+      "perkSubStyle": 8300,
+      "perk1": 9111,
+      "perk4": 8321,
+      "perk2": 9104,
+      "perk5": 8347,
+      "participantId": 3,
+      "perkPrimaryStyle": 8000,
+      "perk0": 8010
+    },
+    {
+      "perk3": 8014,
+      "summoner": "아흣아흣",
+      "perkSubStyle": 8300,
+      "perk1": 8009,
+      "perk4": 8304,
+      "perk2": 9103,
+      "perk5": 8345,
+      "participantId": 4,
+      "perkPrimaryStyle": 8000,
+      "perk0": 8008
+    },
+    {
+      "perk3": 8237,
+      "summoner": "go0595",
+      "perkSubStyle": 8000,
+      "perk1": 8226,
+      "perk4": 8014,
+      "perk2": 8210,
+      "perk5": 8009,
+      "participantId": 5,
+      "perkPrimaryStyle": 8200,
+      "perk0": 8229
+    },
+    {
+      "perk3": 8017,
+      "perkSubStyle": 8100,
+      "summoner": "최승남",
+      "perk1": 9111,
+      "perk4": 8143,
+      "perk2": 9104,
+      "perk5": 8106,
+      "participantId": 6,
+      "perkPrimaryStyle": 8000,
+      "perk0": 8010
+    },
+    {
+      "perk3": 8347,
+      "perkSubStyle": 8100,
+      "summoner": "자신있게싸우자",
+      "perk1": 8321,
+      "perk4": 8106,
+      "perk2": 8345,
+      "perk5": 8139,
+      "participantId": 7,
+      "perkPrimaryStyle": 8300,
+      "perk0": 8360
+    },
+    {
+      "perk3": 8017,
+      "summoner": "바즈큐즈",
+      "perkSubStyle": 8300,
+      "perk1": 9111,
+      "perk4": 8321,
+      "perk2": 9103,
+      "perk5": 8313,
+      "participantId": 8,
+      "perkPrimaryStyle": 8000,
+      "perk0": 8008
+    },
+    {
+      "perk3": 8236,
+      "summoner": "내전아저씨",
+      "perkSubStyle": 8300,
+      "perk1": 8226,
+      "perk4": 8345,
+      "perk2": 8233,
+      "perk5": 8304,
+      "participantId": 9,
+      "perkPrimaryStyle": 8200,
+      "perk0": 8230
+    },
+    {
+      "perk3": 8236,
+      "summoner": "벚 꽃",
+      "perkSubStyle": 8100,
+      "perk1": 8224,
+      "perk4": 8126,
+      "perk2": 8210,
+      "perk5": 8106,
+      "participantId": 10,
+      "perkPrimaryStyle": 8200,
+      "perk0": 8214
+    }
+  ],
+  "graphs": {
+    "assists_per_player": [
+      {
+        "assists": 14,
+        "summoner": "아하아하"
+      },
+      {
+        "assists": 1,
+        "summoner": "쌔뙤크"
+      },
+      {
+        "assists": 10,
+        "summoner": "나는야서짜르트지휘를하지"
+      },
+      {
+        "assists": 11,
+        "summoner": "아흣아흣"
+      },
+      {
+        "assists": 3,
+        "summoner": "go0595"
+      },
+      {
+        "assists": 5,
+        "summoner": "최승남"
+      },
+      {
+        "assists": 12,
+        "summoner": "자신있게싸우자"
+      },
+      {
+        "assists": 2,
+        "summoner": "바즈큐즈"
+      },
+      {
+        "assists": 2,
+        "summoner": "내전아저씨"
+      },
+      {
+        "assists": 7,
+        "summoner": "벚 꽃"
+      }
+    ],
+    "deaths_per_player": [
+      {
+        "summoner": "아하아하",
+        "deaths": 4
+      },
+      {
+        "summoner": "쌔뙤크",
+        "deaths": 2
+      },
+      {
+        "summoner": "나는야서짜르트지휘를하지",
+        "deaths": 3
+      },
+      {
+        "summoner": "아흣아흣",
+        "deaths": 4
+      },
+      {
+        "summoner": "go0595",
+        "deaths": 5
+      },
+      {
+        "summoner": "최승남",
+        "deaths": 7
+      },
+      {
+        "summoner": "자신있게싸우자",
+        "deaths": 8
+      },
+      {
+        "summoner": "바즈큐즈",
+        "deaths": 7
+      },
+      {
+        "summoner": "내전아저씨",
+        "deaths": 10
+      },
+      {
+        "summoner": "벚 꽃",
+        "deaths": 8
+      }
+    ],
+    "kills_per_player": [
+      {
+        "summoner": "아하아하",
+        "kills": 6
+      },
+      {
+        "summoner": "쌔뙤크",
+        "kills": 8
+      },
+      {
+        "summoner": "나는야서짜르트지휘를하지",
+        "kills": 5
+      },
+      {
+        "summoner": "아흣아흣",
+        "kills": 10
+      },
+      {
+        "summoner": "go0595",
+        "kills": 11
+      },
+      {
+        "summoner": "최승남",
+        "kills": 1
+      },
+      {
+        "summoner": "자신있게싸우자",
+        "kills": 0
+      },
+      {
+        "summoner": "바즈큐즈",
+        "kills": 13
+      },
+      {
+        "summoner": "내전아저씨",
+        "kills": 2
+      },
+      {
+        "summoner": "벚 꽃",
+        "kills": 1
+      }
+    ],
+    "gold_per_player": [
+      {
+        "summoner": "아하아하",
+        "gold": 8960
+      },
+      {
+        "summoner": "쌔뙤크",
+        "gold": 9819
+      },
+      {
+        "summoner": "나는야서짜르트지휘를하지",
+        "gold": 11729
+      },
+      {
+        "summoner": "아흣아흣",
+        "gold": 13596
+      },
+      {
+        "summoner": "go0595",
+        "gold": 12438
+      },
+      {
+        "summoner": "최승남",
+        "gold": 7999
+      },
+      {
+        "summoner": "자신있게싸우자",
+        "gold": 7048
+      },
+      {
+        "summoner": "바즈큐즈",
+        "gold": 16531
+      },
+      {
+        "summoner": "내전아저씨",
+        "gold": 9611
+      },
+      {
+        "summoner": "벚 꽃",
+        "gold": 8156
+      }
+    ]
+  },
+  "overview": {
+    "gameType": "CUSTOM_GAME",
+    "teamBans": {
+      "100": [
+        {
+          "championId": 26,
+          "pickTurn": 1
+        },
+        {
+          "championId": 526,
+          "pickTurn": 3
+        },
+        {
+          "championId": 7,
+          "pickTurn": 5
+        },
+        {
+          "championId": 112,
+          "pickTurn": 8
+        },
+        {
+          "championId": 3,
+          "pickTurn": 10
+        }
+      ],
+      "200": [
+        {
+          "championId": 54,
+          "pickTurn": 2
+        },
+        {
+          "championId": 27,
+          "pickTurn": 4
+        },
+        {
+          "championId": 77,
+          "pickTurn": 6
+        },
+        {
+          "championId": 523,
+          "pickTurn": 7
+        },
+        {
+          "championId": 201,
+          "pickTurn": 9
+        }
+      ]
+    },
+    "gameMode": "CLASSIC",
+    "banSummary": {
+      "100": [
+        {
+          "championId": 26,
+          "pickTurn": 1
+        },
+        {
+          "championId": 526,
+          "pickTurn": 3
+        },
+        {
+          "championId": 7,
+          "pickTurn": 5
+        },
+        {
+          "championId": 112,
+          "pickTurn": 8
+        },
+        {
+          "championId": 3,
+          "pickTurn": 10
+        }
+      ],
+      "200": [
+        {
+          "championId": 54,
+          "pickTurn": 2
+        },
+        {
+          "championId": 27,
+          "pickTurn": 4
+        },
+        {
+          "championId": 77,
+          "pickTurn": 6
+        },
+        {
+          "championId": 523,
+          "pickTurn": 7
+        },
+        {
+          "championId": 201,
+          "pickTurn": 9
+        }
+      ]
+    },
+    "gameDuration": 1583,
+    "teams": [
+      {
+        "teamId": 100,
+        "firstBlood": true,
+        "bans": [
+          {
+            "championId": 26,
+            "pickTurn": 1
+          },
+          {
+            "championId": 526,
+            "pickTurn": 3
+          },
+          {
+            "championId": 7,
+            "pickTurn": 5
+          },
+          {
+            "championId": 112,
+            "pickTurn": 8
+          },
+          {
+            "championId": 3,
+            "pickTurn": 10
+          }
+        ],
+        "baronKills": 0,
+        "inhibitorKills": 2,
+        "firstBaron": false,
+        "dragonKills": 3,
+        "win": "Win",
+        "riftHeraldKills": 1,
+        "vilemawKills": 0,
+        "hordeKills": 2,
+        "firstDargon": false,
+        "firstInhibitor": true,
+        "firstTower": true,
+        "towerKills": 8,
+        "dominionVictoryScore": 0
+      },
+      {
+        "teamId": 200,
+        "firstBlood": false,
+        "bans": [
+          {
+            "championId": 54,
+            "pickTurn": 2
+          },
+          {
+            "championId": 27,
+            "pickTurn": 4
+          },
+          {
+            "championId": 77,
+            "pickTurn": 6
+          },
+          {
+            "championId": 523,
+            "pickTurn": 7
+          },
+          {
+            "championId": 201,
+            "pickTurn": 9
+          }
+        ],
+        "baronKills": 1,
+        "inhibitorKills": 0,
+        "firstBaron": true,
+        "dragonKills": 1,
+        "win": "Fail",
+        "riftHeraldKills": 0,
+        "vilemawKills": 0,
+        "hordeKills": 1,
+        "firstDargon": true,
+        "firstInhibitor": false,
+        "firstTower": false,
+        "towerKills": 0,
+        "dominionVictoryScore": 0
+      }
+    ],
+    "queueId": 3130,
+    "gameCreationDate": "2025-12-24T15:13:55.977Z",
+    "gameId": 7985589503,
+    "mapId": 11
+  },
+  "stats": [
+    {
+      "deaths": 4,
+      "totalDamageDealtToChampions": 17571,
+      "assists": 14,
+      "summoner": "아하아하",
+      "win": true,
+      "kills": 6,
+      "championId": 154,
+      "participantId": 1,
+      "goldEarned": 8960,
+      "teamId": 100
+    },
+    {
+      "deaths": 2,
+      "totalDamageDealtToChampions": 15732,
+      "assists": 1,
+      "summoner": "쌔뙤크",
+      "kills": 8,
+      "win": true,
+      "championId": 31,
+      "participantId": 2,
+      "goldEarned": 9819,
+      "teamId": 100
+    },
+    {
+      "deaths": 3,
+      "win": true,
+      "assists": 10,
+      "summoner": "나는야서짜르트지휘를하지",
+      "totalDamageDealtToChampions": 12411,
+      "kills": 5,
+      "championId": 62,
+      "participantId": 3,
+      "goldEarned": 11729,
+      "teamId": 100
+    },
+    {
+      "kills": 10,
+      "totalDamageDealtToChampions": 28180,
+      "win": true,
+      "summoner": "아흣아흣",
+      "assists": 11,
+      "teamId": 100,
+      "championId": 498,
+      "participantId": 4,
+      "goldEarned": 13596,
+      "deaths": 4
+    },
+    {
+      "kills": 11,
+      "assists": 3,
+      "totalDamageDealtToChampions": 23211,
+      "summoner": "go0595",
+      "win": true,
+      "deaths": 5,
+      "championId": 800,
+      "participantId": 5,
+      "goldEarned": 12438,
+      "teamId": 100
+    },
+    {
+      "kills": 1,
+      "totalDamageDealtToChampions": 12992,
+      "win": false,
+      "summoner": "최승남",
+      "assists": 5,
+      "deaths": 7,
+      "championId": 56,
+      "participantId": 6,
+      "goldEarned": 7999,
+      "teamId": 200
+    },
+    {
+      "kills": 0,
+      "win": false,
+      "totalDamageDealtToChampions": 8866,
+      "summoner": "자신있게싸우자",
+      "assists": 12,
+      "deaths": 8,
+      "championId": 888,
+      "participantId": 7,
+      "goldEarned": 7048,
+      "teamId": 200
+    },
+    {
+      "kills": 13,
+      "assists": 2,
+      "win": false,
+      "summoner": "바즈큐즈",
+      "totalDamageDealtToChampions": 30675,
+      "deaths": 7,
+      "championId": 804,
+      "participantId": 8,
+      "goldEarned": 16531,
+      "teamId": 200
+    },
+    {
+      "kills": 2,
+      "totalDamageDealtToChampions": 21543,
+      "win": false,
+      "summoner": "내전아저씨",
+      "assists": 2,
+      "teamId": 200,
+      "championId": 126,
+      "participantId": 9,
+      "goldEarned": 9611,
+      "deaths": 10
+    },
+    {
+      "kills": 1,
+      "totalDamageDealtToChampions": 11131,
+      "assists": 7,
+      "summoner": "벚 꽃",
+      "win": false,
+      "deaths": 8,
+      "championId": 427,
+      "participantId": 10,
+      "goldEarned": 8156,
+      "teamId": 200
+    }
+  ]
+}

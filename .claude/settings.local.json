@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(del \"c:\\\\Project\\\\lol-custom-exe\\\\game_watcher.py\")",
+      "PowerShell(Remove-Item \"c:\\\\Project\\\\lol-custom-exe\\\\game_watcher.py\" -Confirm:$false)",
+      "PowerShell(Remove-Item \"c:\\\\Project\\\\lol-custom-exe\\\\auto_reporter.py\" -Confirm:$false)"
+    ]
+  }
+}

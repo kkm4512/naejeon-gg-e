@@ -1,0 +1,597 @@
+{
+  "runes": [
+    {
+      "perk3": 8299,
+      "summoner": "아하아하",
+      "perkSubStyle": 8200,
+      "perk1": 9111,
+      "perk4": 8224,
+      "perk2": 9105,
+      "perk5": 8234,
+      "participantId": 1,
+      "perkPrimaryStyle": 8000,
+      "perk0": 8010
+    },
+    {
+      "perk3": 8014,
+      "summoner": "내전아저씨",
+      "perkSubStyle": 8100,
+      "perk1": 9111,
+      "perk4": 8143,
+      "perk2": 9104,
+      "perk5": 8135,
+      "participantId": 2,
+      "perkPrimaryStyle": 8000,
+      "perk0": 8010
+    },
+    {
+      "perk3": 8316,
+      "summoner": "아흣아흣",
+      "perkSubStyle": 8000,
+      "perk1": 8321,
+      "perk4": 9105,
+      "perk2": 8313,
+      "perk5": 8017,
+      "participantId": 3,
+      "perkPrimaryStyle": 8300,
+      "perk0": 8369
+    },
+    {
+      "perk3": 8236,
+      "summoner": "황오시",
+      "perkSubStyle": 8300,
+      "perk1": 8275,
+      "perk4": 8304,
+      "perk2": 8234,
+      "perk5": 8316,
+      "participantId": 4,
+      "perkPrimaryStyle": 8200,
+      "perk0": 8992
+    },
+    {
+      "perk3": 8237,
+      "summoner": "아무뭉",
+      "perkSubStyle": 8300,
+      "perk1": 8226,
+      "perk4": 8345,
+      "perk2": 8210,
+      "perk5": 8321,
+      "participantId": 5,
+      "perkPrimaryStyle": 8200,
+      "perk0": 8229
+    },
+    {
+      "perk3": 8299,
+      "summoner": "7r렌",
+      "perkSubStyle": 8200,
+      "perk1": 9111,
+      "perk4": 8224,
+      "perk2": 9104,
+      "perk5": 8234,
+      "participantId": 6,
+      "perkPrimaryStyle": 8000,
+      "perk0": 8010
+    },
+    {
+      "perk3": 8299,
+      "summoner": "포르쉐 코리아",
+      "perkSubStyle": 8400,
+      "perk1": 9111,
+      "perk4": 8429,
+      "perk2": 9105,
+      "perk5": 8451,
+      "participantId": 7,
+      "perkPrimaryStyle": 8000,
+      "perk0": 8010
+    },
+    {
+      "perk3": 8237,
+      "summoner": "최승남",
+      "perkSubStyle": 8400,
+      "perk1": 8226,
+      "perk4": 8401,
+      "perk2": 8210,
+      "perk5": 8473,
+      "participantId": 8,
+      "perkPrimaryStyle": 8200,
+      "perk0": 8992
+    },
+    {
+      "perk3": 8347,
+      "summoner": "Just this one",
+      "perkSubStyle": 8200,
+      "perk1": 8304,
+      "perk4": 8226,
+      "perk2": 8345,
+      "perk5": 8210,
+      "participantId": 9,
+      "perkPrimaryStyle": 8300,
+      "perk0": 8369
+    },
+    {
+      "perk3": 8237,
+      "summoner": "쌔뙤크",
+      "perkSubStyle": 8000,
+      "perk1": 8226,
+      "perk4": 9105,
+      "perk2": 8210,
+      "perk5": 8017,
+      "participantId": 10,
+      "perkPrimaryStyle": 8200,
+      "perk0": 8992
+    }
+  ],
+  "overview": {
+    "gameType": "CUSTOM_GAME",
+    "teamBans": {
+      "100": [
+        {
+          "championId": 897,
+          "pickTurn": 1
+        },
+        {
+          "championId": 56,
+          "pickTurn": 3
+        },
+        {
+          "championId": 27,
+          "pickTurn": 5
+        },
+        {
+          "championId": 2,
+          "pickTurn": 8
+        },
+        {
+          "championId": 36,
+          "pickTurn": 10
+        }
+      ],
+      "200": [
+        {
+          "championId": 266,
+          "pickTurn": 2
+        },
+        {
+          "championId": 150,
+          "pickTurn": 4
+        },
+        {
+          "championId": 55,
+          "pickTurn": 6
+        },
+        {
+          "championId": 68,
+          "pickTurn": 7
+        },
+        {
+          "championId": 80,
+          "pickTurn": 9
+        }
+      ]
+    },
+    "gameMode": "CLASSIC",
+    "banSummary": {
+      "100": [
+        {
+          "championId": 897,
+          "pickTurn": 1
+        },
+        {
+          "championId": 56,
+          "pickTurn": 3
+        },
+        {
+          "championId": 27,
+          "pickTurn": 5
+        },
+        {
+          "championId": 2,
+          "pickTurn": 8
+        },
+        {
+          "championId": 36,
+          "pickTurn": 10
+        }
+      ],
+      "200": [
+        {
+          "championId": 266,
+          "pickTurn": 2
+        },
+        {
+          "championId": 150,
+          "pickTurn": 4
+        },
+        {
+          "championId": 55,
+          "pickTurn": 6
+        },
+        {
+          "championId": 68,
+          "pickTurn": 7
+        },
+        {
+          "championId": 80,
+          "pickTurn": 9
+        }
+      ]
+    },
+    "gameDuration": 2390,
+    "teams": [
+      {
+        "dominionVictoryScore": 0,
+        "firstBlood": false,
+        "bans": [
+          {
+            "championId": 897,
+            "pickTurn": 1
+          },
+          {
+            "championId": 56,
+            "pickTurn": 3
+          },
+          {
+            "championId": 27,
+            "pickTurn": 5
+          },
+          {
+            "championId": 2,
+            "pickTurn": 8
+          },
+          {
+            "championId": 36,
+            "pickTurn": 10
+          }
+        ],
+        "baronKills": 2,
+        "inhibitorKills": 3,
+        "firstBaron": false,
+        "dragonKills": 2,
+        "win": "Win",
+        "riftHeraldKills": 1,
+        "vilemawKills": 0,
+        "hordeKills": 0,
+        "firstDargon": false,
+        "firstInhibitor": true,
+        "firstTower": false,
+        "towerKills": 13,
+        "teamId": 100
+      },
+      {
+        "dominionVictoryScore": 0,
+        "firstBlood": true,
+        "bans": [
+          {
+            "championId": 266,
+            "pickTurn": 2
+          },
+          {
+            "championId": 150,
+            "pickTurn": 4
+          },
+          {
+            "championId": 55,
+            "pickTurn": 6
+          },
+          {
+            "championId": 68,
+            "pickTurn": 7
+          },
+          {
+            "championId": 80,
+            "pickTurn": 9
+          }
+        ],
+        "baronKills": 1,
+        "inhibitorKills": 0,
+        "firstBaron": true,
+        "dragonKills": 4,
+        "win": "Fail",
+        "riftHeraldKills": 0,
+        "vilemawKills": 0,
+        "hordeKills": 3,
+        "firstDargon": true,
+        "firstInhibitor": false,
+        "firstTower": true,
+        "towerKills": 6,
+        "teamId": 200
+      }
+    ],
+    "queueId": 3130,
+    "gameCreationDate": "2026-06-20T14:15:19.376Z",
+    "gameId": 8266886352,
+    "mapId": 11
+  },
+  "graphs": {
+    "assists_per_player": [
+      {
+        "assists": 11,
+        "summoner": "아하아하"
+      },
+      {
+        "assists": 18,
+        "summoner": "내전아저씨"
+      },
+      {
+        "assists": 10,
+        "summoner": "아흣아흣"
+      },
+      {
+        "assists": 12,
+        "summoner": "황오시"
+      },
+      {
+        "assists": 20,
+        "summoner": "아무뭉"
+      },
+      {
+        "assists": 7,
+        "summoner": "7r렌"
+      },
+      {
+        "assists": 13,
+        "summoner": "포르쉐 코리아"
+      },
+      {
+        "assists": 12,
+        "summoner": "최승남"
+      },
+      {
+        "assists": 10,
+        "summoner": "Just this one"
+      },
+      {
+        "assists": 11,
+        "summoner": "쌔뙤크"
+      }
+    ],
+    "deaths_per_player": [
+      {
+        "summoner": "아하아하",
+        "deaths": 8
+      },
+      {
+        "summoner": "내전아저씨",
+        "deaths": 8
+      },
+      {
+        "summoner": "아흣아흣",
+        "deaths": 12
+      },
+      {
+        "summoner": "황오시",
+        "deaths": 3
+      },
+      {
+        "summoner": "아무뭉",
+        "deaths": 9
+      },
+      {
+        "summoner": "7r렌",
+        "deaths": 9
+      },
+      {
+        "summoner": "포르쉐 코리아",
+        "deaths": 11
+      },
+      {
+        "summoner": "최승남",
+        "deaths": 5
+      },
+      {
+        "summoner": "Just this one",
+        "deaths": 7
+      },
+      {
+        "summoner": "쌔뙤크",
+        "deaths": 10
+      }
+    ],
+    "kills_per_player": [
+      {
+        "summoner": "아하아하",
+        "kills": 13
+      },
+      {
+        "summoner": "내전아저씨",
+        "kills": 5
+      },
+      {
+        "summoner": "아흣아흣",
+        "kills": 9
+      },
+      {
+        "summoner": "황오시",
+        "kills": 13
+      },
+      {
+        "summoner": "아무뭉",
+        "kills": 1
+      },
+      {
+        "summoner": "7r렌",
+        "kills": 12
+      },
+      {
+        "summoner": "포르쉐 코리아",
+        "kills": 5
+      },
+      {
+        "summoner": "최승남",
+        "kills": 6
+      },
+      {
+        "summoner": "Just this one",
+        "kills": 8
+      },
+      {
+        "summoner": "쌔뙤크",
+        "kills": 9
+      }
+    ],
+    "gold_per_player": [
+      {
+        "summoner": "아하아하",
+        "gold": 22223
+      },
+      {
+        "summoner": "내전아저씨",
+        "gold": 14845
+      },
+      {
+        "summoner": "아흣아흣",
+        "gold": 19152
+      },
+      {
+        "summoner": "황오시",
+        "gold": 21972
+      },
+      {
+        "summoner": "아무뭉",
+        "gold": 12244
+      },
+      {
+        "summoner": "7r렌",
+        "gold": 16911
+      },
+      {
+        "summoner": "포르쉐 코리아",
+        "gold": 14245
+      },
+      {
+        "summoner": "최승남",
+        "gold": 16596
+      },
+      {
+        "summoner": "Just this one",
+        "gold": 19602
+      },
+      {
+        "summoner": "쌔뙤크",
+        "gold": 12815
+      }
+    ]
+  },
+  "stats": [
+    {
+      "deaths": 8,
+      "assists": 11,
+      "totalDamageDealtToChampions": 38047,
+      "summoner": "아하아하",
+      "win": true,
+      "teamId": 100,
+      "championId": 86,
+      "participantId": 1,
+      "goldEarned": 22223,
+      "kills": 13
+    },
+    {
+      "deaths": 8,
+      "assists": 18,
+      "totalDamageDealtToChampions": 16271,
+      "summoner": "내전아저씨",
+      "win": true,
+      "teamId": 100,
+      "championId": 64,
+      "participantId": 2,
+      "goldEarned": 14845,
+      "kills": 5
+    },
+    {
+      "deaths": 12,
+      "assists": 10,
+      "totalDamageDealtToChampions": 40990,
+      "summoner": "아흣아흣",
+      "win": true,
+      "teamId": 100,
+      "championId": 238,
+      "participantId": 3,
+      "goldEarned": 19152,
+      "kills": 9
+    },
+    {
+      "deaths": 3,
+      "assists": 12,
+      "totalDamageDealtToChampions": 43818,
+      "summoner": "황오시",
+      "win": true,
+      "teamId": 100,
+      "championId": 901,
+      "participantId": 4,
+      "goldEarned": 21972,
+      "kills": 13
+    },
+    {
+      "deaths": 9,
+      "assists": 20,
+      "totalDamageDealtToChampions": 18952,
+      "summoner": "아무뭉",
+      "win": true,
+      "teamId": 100,
+      "championId": 25,
+      "participantId": 5,
+      "goldEarned": 12244,
+      "kills": 1
+    },
+    {
+      "deaths": 9,
+      "assists": 7,
+      "totalDamageDealtToChampions": 40989,
+      "summoner": "7r렌",
+      "win": false,
+      "teamId": 200,
+      "championId": 122,
+      "participantId": 6,
+      "goldEarned": 16911,
+      "kills": 12
+    },
+    {
+      "deaths": 11,
+      "assists": 13,
+      "totalDamageDealtToChampions": 19000,
+      "summoner": "포르쉐 코리아",
+      "win": false,
+      "teamId": 200,
+      "championId": 32,
+      "participantId": 7,
+      "goldEarned": 14245,
+      "kills": 5
+    },
+    {
+      "deaths": 5,
+      "assists": 12,
+      "totalDamageDealtToChampions": 28670,
+      "summoner": "최승남",
+      "win": false,
+      "teamId": 200,
+      "championId": 112,
+      "participantId": 8,
+      "goldEarned": 16596,
+      "kills": 6
+    },
+    {
+      "deaths": 7,
+      "assists": 10,
+      "totalDamageDealtToChampions": 58289,
+      "summoner": "Just this one",
+      "win": false,
+      "teamId": 200,
+      "championId": 134,
+      "participantId": 9,
+      "goldEarned": 19602,
+      "kills": 8
+    },
+    {
+      "deaths": 10,
+      "assists": 11,
+      "totalDamageDealtToChampions": 27746,
+      "summoner": "쌔뙤크",
+      "win": false,
+      "teamId": 200,
+      "championId": 950,
+      "participantId": 10,
+      "goldEarned": 12815,
+      "kills": 9
+    }
+  ]
+}

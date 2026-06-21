@@ -1,0 +1,468 @@
+{
+  "runes": [
+    {
+      "perk3": 8014,
+      "summoner": "이지스 프레임 정성훈",
+      "perkSubStyle": 8400,
+      "perk1": 9111,
+      "perk4": 8473,
+      "perk2": 9103,
+      "perk5": 8453,
+      "participantId": 1,
+      "perkPrimaryStyle": 8000,
+      "perk0": 8010
+    },
+    {
+      "perk3": 8299,
+      "summoner": "아프다이",
+      "perkSubStyle": 8300,
+      "perk1": 9111,
+      "perk4": 8347,
+      "perk2": 9105,
+      "perk5": 8304,
+      "participantId": 2,
+      "perkPrimaryStyle": 8000,
+      "perk0": 8010
+    },
+    {
+      "perk3": 8237,
+      "summoner": "내전아저씨",
+      "perkSubStyle": 8300,
+      "perk1": 8226,
+      "perk4": 8316,
+      "perk2": 8210,
+      "perk5": 8313,
+      "participantId": 3,
+      "perkPrimaryStyle": 8200,
+      "perk0": 8214
+    },
+    {
+      "perk3": 8236,
+      "summoner": "연 꽃",
+      "perkSubStyle": 8300,
+      "perk1": 8275,
+      "perk4": 8316,
+      "perk2": 8234,
+      "perk5": 8304,
+      "participantId": 4,
+      "perkPrimaryStyle": 8200,
+      "perk0": 8992
+    },
+    {
+      "perk3": 8242,
+      "perkSubStyle": 8300,
+      "summoner": "아흣아흣",
+      "perk1": 8463,
+      "perk4": 8306,
+      "perk2": 8473,
+      "perk5": 8347,
+      "participantId": 5,
+      "perkPrimaryStyle": 8400,
+      "perk0": 8439
+    },
+    {
+      "perk3": 8299,
+      "summoner": "아하아하",
+      "perkSubStyle": 8200,
+      "perk1": 8009,
+      "perk4": 8226,
+      "perk2": 9105,
+      "perk5": 8237,
+      "participantId": 6,
+      "perkPrimaryStyle": 8000,
+      "perk0": 8010
+    },
+    {
+      "perk3": 8299,
+      "perkSubStyle": 8200,
+      "summoner": "강통짱",
+      "perk1": 9111,
+      "perk4": 8234,
+      "perk2": 9104,
+      "perk5": 8232,
+      "participantId": 7,
+      "perkPrimaryStyle": 8000,
+      "perk0": 8008
+    },
+    {
+      "perk3": 8237,
+      "summoner": "아앙아아",
+      "perkSubStyle": 8400,
+      "perk1": 8226,
+      "perk4": 8473,
+      "perk2": 8210,
+      "perk5": 8401,
+      "participantId": 8,
+      "perkPrimaryStyle": 8200,
+      "perk0": 8992
+    },
+    {
+      "perk3": 8237,
+      "summoner": "바즈큐즈",
+      "perkSubStyle": 8300,
+      "perk1": 8226,
+      "perk4": 8321,
+      "perk2": 8234,
+      "perk5": 8316,
+      "participantId": 9,
+      "perkPrimaryStyle": 8200,
+      "perk0": 8992
+    },
+    {
+      "perk3": 8347,
+      "perkSubStyle": 8100,
+      "summoner": "자신있게싸우자",
+      "perk1": 8304,
+      "perk4": 8106,
+      "perk2": 8345,
+      "perk5": 8137,
+      "participantId": 10,
+      "perkPrimaryStyle": 8300,
+      "perk0": 8360
+    }
+  ],
+  "graphs": {
+    "assists_per_player": [
+      {
+        "assists": 9,
+        "summoner": "이지스 프레임 정성훈"
+      },
+      {
+        "assists": 13,
+        "summoner": "아프다이"
+      },
+      {
+        "assists": 6,
+        "summoner": "내전아저씨"
+      },
+      {
+        "assists": 17,
+        "summoner": "연 꽃"
+      },
+      {
+        "assists": 19,
+        "summoner": "아흣아흣"
+      },
+      {
+        "assists": 4,
+        "summoner": "아하아하"
+      },
+      {
+        "assists": 9,
+        "summoner": "강통짱"
+      },
+      {
+        "assists": 3,
+        "summoner": "아앙아아"
+      },
+      {
+        "assists": 2,
+        "summoner": "바즈큐즈"
+      },
+      {
+        "assists": 12,
+        "summoner": "자신있게싸우자"
+      }
+    ],
+    "deaths_per_player": [
+      {
+        "summoner": "이지스 프레임 정성훈",
+        "deaths": 4
+      },
+      {
+        "summoner": "아프다이",
+        "deaths": 5
+      },
+      {
+        "summoner": "내전아저씨",
+        "deaths": 2
+      },
+      {
+        "summoner": "연 꽃",
+        "deaths": 1
+      },
+      {
+        "summoner": "아흣아흣",
+        "deaths": 9
+      },
+      {
+        "summoner": "아하아하",
+        "deaths": 8
+      },
+      {
+        "summoner": "강통짱",
+        "deaths": 13
+      },
+      {
+        "summoner": "아앙아아",
+        "deaths": 6
+      },
+      {
+        "summoner": "바즈큐즈",
+        "deaths": 8
+      },
+      {
+        "summoner": "자신있게싸우자",
+        "deaths": 8
+      }
+    ],
+    "kills_per_player": [
+      {
+        "summoner": "이지스 프레임 정성훈",
+        "kills": 6
+      },
+      {
+        "summoner": "아프다이",
+        "kills": 14
+      },
+      {
+        "summoner": "내전아저씨",
+        "kills": 9
+      },
+      {
+        "summoner": "연 꽃",
+        "kills": 7
+      },
+      {
+        "summoner": "아흣아흣",
+        "kills": 7
+      },
+      {
+        "summoner": "아하아하",
+        "kills": 5
+      },
+      {
+        "summoner": "강통짱",
+        "kills": 3
+      },
+      {
+        "summoner": "아앙아아",
+        "kills": 7
+      },
+      {
+        "summoner": "바즈큐즈",
+        "kills": 6
+      },
+      {
+        "summoner": "자신있게싸우자",
+        "kills": 0
+      }
+    ],
+    "gold_per_player": [
+      {
+        "summoner": "이지스 프레임 정성훈",
+        "gold": 12346
+      },
+      {
+        "summoner": "아프다이",
+        "gold": 16306
+      },
+      {
+        "summoner": "내전아저씨",
+        "gold": 14255
+      },
+      {
+        "summoner": "연 꽃",
+        "gold": 15204
+      },
+      {
+        "summoner": "아흣아흣",
+        "gold": 11451
+      },
+      {
+        "summoner": "아하아하",
+        "gold": 10923
+      },
+      {
+        "summoner": "강통짱",
+        "gold": 11410
+      },
+      {
+        "summoner": "아앙아아",
+        "gold": 12987
+      },
+      {
+        "summoner": "바즈큐즈",
+        "gold": 14538
+      },
+      {
+        "summoner": "자신있게싸우자",
+        "gold": 7945
+      }
+    ]
+  },
+  "overview": {
+    "gameType": "CUSTOM_GAME",
+    "teamBans": {
+      "100": [],
+      "200": []
+    },
+    "gameMode": "CLASSIC",
+    "banSummary": "No bans recorded",
+    "gameDuration": 1941,
+    "teams": [
+      {
+        "dominionVictoryScore": 0,
+        "firstBlood": true,
+        "bans": [],
+        "baronKills": 1,
+        "inhibitorKills": 1,
+        "firstBaron": true,
+        "dragonKills": 3,
+        "firstInhibitor": true,
+        "riftHeraldKills": 1,
+        "vilemawKills": 0,
+        "hordeKills": 2,
+        "firstDargon": false,
+        "win": "Win",
+        "firstTower": true,
+        "towerKills": 8,
+        "teamId": 100
+      },
+      {
+        "dominionVictoryScore": 0,
+        "firstBlood": false,
+        "bans": [],
+        "baronKills": 0,
+        "inhibitorKills": 0,
+        "firstBaron": false,
+        "dragonKills": 1,
+        "firstInhibitor": false,
+        "riftHeraldKills": 0,
+        "vilemawKills": 0,
+        "hordeKills": 1,
+        "firstDargon": true,
+        "win": "Fail",
+        "firstTower": false,
+        "towerKills": 2,
+        "teamId": 200
+      }
+    ],
+    "queueId": 3100,
+    "gameCreationDate": "2026-05-29T12:19:34.398Z",
+    "gameId": 8236523050,
+    "mapId": 11
+  },
+  "stats": [
+    {
+      "deaths": 4,
+      "totalDamageDealtToChampions": 19736,
+      "win": true,
+      "summoner": "이지스 프레임 정성훈",
+      "assists": 9,
+      "kills": 6,
+      "championId": 266,
+      "participantId": 1,
+      "goldEarned": 12346,
+      "teamId": 100
+    },
+    {
+      "deaths": 5,
+      "assists": 13,
+      "kills": 14,
+      "summoner": "아프다이",
+      "win": true,
+      "totalDamageDealtToChampions": 32161,
+      "championId": 799,
+      "participantId": 2,
+      "goldEarned": 16306,
+      "teamId": 100
+    },
+    {
+      "kills": 9,
+      "win": true,
+      "assists": 6,
+      "summoner": "내전아저씨",
+      "deaths": 2,
+      "totalDamageDealtToChampions": 21883,
+      "championId": 268,
+      "participantId": 3,
+      "goldEarned": 14255,
+      "teamId": 100
+    },
+    {
+      "kills": 7,
+      "win": true,
+      "assists": 17,
+      "summoner": "연 꽃",
+      "deaths": 1,
+      "totalDamageDealtToChampions": 33153,
+      "championId": 901,
+      "participantId": 4,
+      "goldEarned": 15204,
+      "teamId": 100
+    },
+    {
+      "deaths": 9,
+      "assists": 19,
+      "kills": 7,
+      "summoner": "아흣아흣",
+      "win": true,
+      "totalDamageDealtToChampions": 15833,
+      "championId": 78,
+      "participantId": 5,
+      "goldEarned": 11451,
+      "teamId": 100
+    },
+    {
+      "deaths": 8,
+      "win": false,
+      "assists": 4,
+      "summoner": "아하아하",
+      "teamId": 200,
+      "totalDamageDealtToChampions": 25308,
+      "championId": 80,
+      "participantId": 6,
+      "goldEarned": 10923,
+      "kills": 5
+    },
+    {
+      "teamId": 200,
+      "totalDamageDealtToChampions": 13822,
+      "win": false,
+      "summoner": "강통짱",
+      "assists": 9,
+      "deaths": 13,
+      "championId": 19,
+      "participantId": 7,
+      "goldEarned": 11410,
+      "kills": 3
+    },
+    {
+      "teamId": 200,
+      "totalDamageDealtToChampions": 32824,
+      "assists": 3,
+      "summoner": "아앙아아",
+      "deaths": 6,
+      "win": false,
+      "championId": 112,
+      "participantId": 8,
+      "goldEarned": 12987,
+      "kills": 7
+    },
+    {
+      "deaths": 8,
+      "totalDamageDealtToChampions": 21188,
+      "win": false,
+      "summoner": "바즈큐즈",
+      "assists": 2,
+      "kills": 6,
+      "championId": 235,
+      "participantId": 9,
+      "goldEarned": 14538,
+      "teamId": 200
+    },
+    {
+      "kills": 0,
+      "win": false,
+      "assists": 12,
+      "summoner": "자신있게싸우자",
+      "deaths": 8,
+      "totalDamageDealtToChampions": 8344,
+      "championId": 497,
+      "participantId": 10,
+      "goldEarned": 7945,
+      "teamId": 200
+    }
+  ]
+}

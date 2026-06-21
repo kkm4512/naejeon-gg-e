@@ -1,0 +1,597 @@
+{
+  "runes": [
+    {
+      "perk3": 8236,
+      "summoner": "tr4cer",
+      "perkSubStyle": 8300,
+      "perk1": 8226,
+      "perk4": 8313,
+      "perk2": 8233,
+      "perk5": 8316,
+      "participantId": 1,
+      "perkPrimaryStyle": 8200,
+      "perk0": 8230
+    },
+    {
+      "perk3": 8451,
+      "summoner": "Sk8er Boi 19",
+      "perkSubStyle": 8300,
+      "perk1": 8401,
+      "perk4": 8347,
+      "perk2": 8429,
+      "perk5": 8304,
+      "participantId": 2,
+      "perkPrimaryStyle": 8400,
+      "perk0": 8437
+    },
+    {
+      "perk3": 8237,
+      "summoner": "자신있게싸우자",
+      "perkSubStyle": 8300,
+      "perk1": 8226,
+      "perk4": 8321,
+      "perk2": 8234,
+      "perk5": 8313,
+      "participantId": 3,
+      "perkPrimaryStyle": 8200,
+      "perk0": 8230
+    },
+    {
+      "perk3": 8135,
+      "summoner": "snunup",
+      "perkSubStyle": 8000,
+      "perk1": 8139,
+      "perk4": 8009,
+      "perk2": 8140,
+      "perk5": 8017,
+      "participantId": 4,
+      "perkPrimaryStyle": 8100,
+      "perk0": 8128
+    },
+    {
+      "perk3": 8236,
+      "summoner": "Hide on bush",
+      "perkSubStyle": 8400,
+      "perk1": 8226,
+      "perk4": 8453,
+      "perk2": 8210,
+      "perk5": 8463,
+      "participantId": 5,
+      "perkPrimaryStyle": 8200,
+      "perk0": 8214
+    },
+    {
+      "perk3": 8299,
+      "summoner": "협곡의 전령 빙의",
+      "perkSubStyle": 8300,
+      "perk1": 9111,
+      "perk4": 8345,
+      "perk2": 9104,
+      "perk5": 8410,
+      "participantId": 6,
+      "perkPrimaryStyle": 8000,
+      "perk0": 8010
+    },
+    {
+      "perk3": 8299,
+      "summoner": "Tmeka",
+      "perkSubStyle": 8300,
+      "perk1": 9111,
+      "perk4": 8304,
+      "perk2": 9104,
+      "perk5": 8347,
+      "participantId": 7,
+      "perkPrimaryStyle": 8000,
+      "perk0": 8010
+    },
+    {
+      "perk3": 8236,
+      "summoner": "이게 어려웠나",
+      "perkSubStyle": 8100,
+      "perk1": 8275,
+      "perk4": 8106,
+      "perk2": 8210,
+      "perk5": 8126,
+      "participantId": 8,
+      "perkPrimaryStyle": 8200,
+      "perk0": 8229
+    },
+    {
+      "perk3": 8017,
+      "summoner": "Rifle",
+      "perkSubStyle": 8300,
+      "perk1": 9111,
+      "perk4": 8321,
+      "perk2": 9103,
+      "perk5": 8313,
+      "participantId": 9,
+      "perkPrimaryStyle": 8000,
+      "perk0": 8008
+    },
+    {
+      "perk3": 8237,
+      "summoner": "으이아마앗",
+      "perkSubStyle": 8300,
+      "perk1": 8275,
+      "perk4": 8347,
+      "perk2": 8234,
+      "perk5": 8345,
+      "participantId": 10,
+      "perkPrimaryStyle": 8200,
+      "perk0": 8214
+    }
+  ],
+  "overview": {
+    "gameType": "MATCHED_GAME",
+    "teamBans": {
+      "100": [
+        {
+          "championId": 68,
+          "pickTurn": 1
+        },
+        {
+          "championId": -1,
+          "pickTurn": 2
+        },
+        {
+          "championId": 77,
+          "pickTurn": 3
+        },
+        {
+          "championId": 111,
+          "pickTurn": 4
+        },
+        {
+          "championId": 143,
+          "pickTurn": 5
+        }
+      ],
+      "200": [
+        {
+          "championId": 84,
+          "pickTurn": 6
+        },
+        {
+          "championId": 800,
+          "pickTurn": 7
+        },
+        {
+          "championId": 555,
+          "pickTurn": 8
+        },
+        {
+          "championId": 104,
+          "pickTurn": 9
+        },
+        {
+          "championId": 114,
+          "pickTurn": 10
+        }
+      ]
+    },
+    "gameMode": "CLASSIC",
+    "banSummary": {
+      "100": [
+        {
+          "championId": 68,
+          "pickTurn": 1
+        },
+        {
+          "championId": -1,
+          "pickTurn": 2
+        },
+        {
+          "championId": 77,
+          "pickTurn": 3
+        },
+        {
+          "championId": 111,
+          "pickTurn": 4
+        },
+        {
+          "championId": 143,
+          "pickTurn": 5
+        }
+      ],
+      "200": [
+        {
+          "championId": 84,
+          "pickTurn": 6
+        },
+        {
+          "championId": 800,
+          "pickTurn": 7
+        },
+        {
+          "championId": 555,
+          "pickTurn": 8
+        },
+        {
+          "championId": 104,
+          "pickTurn": 9
+        },
+        {
+          "championId": 114,
+          "pickTurn": 10
+        }
+      ]
+    },
+    "gameDuration": 920,
+    "teams": [
+      {
+        "dominionVictoryScore": 0,
+        "firstBlood": true,
+        "bans": [
+          {
+            "championId": 68,
+            "pickTurn": 1
+          },
+          {
+            "championId": -1,
+            "pickTurn": 2
+          },
+          {
+            "championId": 77,
+            "pickTurn": 3
+          },
+          {
+            "championId": 111,
+            "pickTurn": 4
+          },
+          {
+            "championId": 143,
+            "pickTurn": 5
+          }
+        ],
+        "baronKills": 0,
+        "inhibitorKills": 0,
+        "firstBaron": false,
+        "dragonKills": 1,
+        "win": "Win",
+        "riftHeraldKills": 0,
+        "vilemawKills": 0,
+        "hordeKills": 0,
+        "firstDargon": true,
+        "firstInhibitor": false,
+        "firstTower": true,
+        "towerKills": 1,
+        "teamId": 100
+      },
+      {
+        "dominionVictoryScore": 0,
+        "firstBlood": false,
+        "bans": [
+          {
+            "championId": 84,
+            "pickTurn": 6
+          },
+          {
+            "championId": 800,
+            "pickTurn": 7
+          },
+          {
+            "championId": 555,
+            "pickTurn": 8
+          },
+          {
+            "championId": 104,
+            "pickTurn": 9
+          },
+          {
+            "championId": 114,
+            "pickTurn": 10
+          }
+        ],
+        "baronKills": 0,
+        "inhibitorKills": 0,
+        "firstBaron": false,
+        "dragonKills": 0,
+        "win": "Fail",
+        "riftHeraldKills": 0,
+        "vilemawKills": 0,
+        "hordeKills": 3,
+        "firstDargon": false,
+        "firstInhibitor": false,
+        "firstTower": false,
+        "towerKills": 0,
+        "teamId": 200
+      }
+    ],
+    "queueId": 420,
+    "gameCreationDate": "2026-03-27T23:40:49.856Z",
+    "gameId": 8151334439,
+    "mapId": 11
+  },
+  "graphs": {
+    "assists_per_player": [
+      {
+        "assists": 1,
+        "summoner": "tr4cer"
+      },
+      {
+        "assists": 7,
+        "summoner": "Sk8er Boi 19"
+      },
+      {
+        "assists": 0,
+        "summoner": "자신있게싸우자"
+      },
+      {
+        "assists": 3,
+        "summoner": "snunup"
+      },
+      {
+        "assists": 6,
+        "summoner": "Hide on bush"
+      },
+      {
+        "assists": 1,
+        "summoner": "협곡의 전령 빙의"
+      },
+      {
+        "assists": 1,
+        "summoner": "Tmeka"
+      },
+      {
+        "assists": 1,
+        "summoner": "이게 어려웠나"
+      },
+      {
+        "assists": 0,
+        "summoner": "Rifle"
+      },
+      {
+        "assists": 0,
+        "summoner": "으이아마앗"
+      }
+    ],
+    "deaths_per_player": [
+      {
+        "summoner": "tr4cer",
+        "deaths": 1
+      },
+      {
+        "summoner": "Sk8er Boi 19",
+        "deaths": 0
+      },
+      {
+        "summoner": "자신있게싸우자",
+        "deaths": 2
+      },
+      {
+        "summoner": "snunup",
+        "deaths": 0
+      },
+      {
+        "summoner": "Hide on bush",
+        "deaths": 1
+      },
+      {
+        "summoner": "협곡의 전령 빙의",
+        "deaths": 8
+      },
+      {
+        "summoner": "Tmeka",
+        "deaths": 2
+      },
+      {
+        "summoner": "이게 어려웠나",
+        "deaths": 0
+      },
+      {
+        "summoner": "Rifle",
+        "deaths": 4
+      },
+      {
+        "summoner": "으이아마앗",
+        "deaths": 3
+      }
+    ],
+    "kills_per_player": [
+      {
+        "summoner": "tr4cer",
+        "kills": 7
+      },
+      {
+        "summoner": "Sk8er Boi 19",
+        "kills": 1
+      },
+      {
+        "summoner": "자신있게싸우자",
+        "kills": 2
+      },
+      {
+        "summoner": "snunup",
+        "kills": 4
+      },
+      {
+        "summoner": "Hide on bush",
+        "kills": 2
+      },
+      {
+        "summoner": "협곡의 전령 빙의",
+        "kills": 0
+      },
+      {
+        "summoner": "Tmeka",
+        "kills": 2
+      },
+      {
+        "summoner": "이게 어려웠나",
+        "kills": 1
+      },
+      {
+        "summoner": "Rifle",
+        "kills": 0
+      },
+      {
+        "summoner": "으이아마앗",
+        "kills": 0
+      }
+    ],
+    "gold_per_player": [
+      {
+        "summoner": "tr4cer",
+        "gold": 6707
+      },
+      {
+        "summoner": "Sk8er Boi 19",
+        "gold": 5972
+      },
+      {
+        "summoner": "자신있게싸우자",
+        "gold": 5734
+      },
+      {
+        "summoner": "snunup",
+        "gold": 7578
+      },
+      {
+        "summoner": "Hide on bush",
+        "gold": 4894
+      },
+      {
+        "summoner": "협곡의 전령 빙의",
+        "gold": 5178
+      },
+      {
+        "summoner": "Tmeka",
+        "gold": 6414
+      },
+      {
+        "summoner": "이게 어려웠나",
+        "gold": 5398
+      },
+      {
+        "summoner": "Rifle",
+        "gold": 4180
+      },
+      {
+        "summoner": "으이아마앗",
+        "gold": 3458
+      }
+    ]
+  },
+  "stats": [
+    {
+      "deaths": 1,
+      "assists": 1,
+      "totalDamageDealtToChampions": 13857,
+      "summoner": "tr4cer",
+      "win": true,
+      "teamId": 100,
+      "championId": 126,
+      "participantId": 1,
+      "goldEarned": 6707,
+      "kills": 7
+    },
+    {
+      "deaths": 0,
+      "assists": 7,
+      "totalDamageDealtToChampions": 4315,
+      "summoner": "Sk8er Boi 19",
+      "win": true,
+      "teamId": 100,
+      "championId": 72,
+      "participantId": 2,
+      "goldEarned": 5972,
+      "kills": 1
+    },
+    {
+      "deaths": 2,
+      "assists": 0,
+      "totalDamageDealtToChampions": 6721,
+      "summoner": "자신있게싸우자",
+      "win": true,
+      "teamId": 100,
+      "championId": 13,
+      "participantId": 3,
+      "goldEarned": 5734,
+      "kills": 2
+    },
+    {
+      "deaths": 0,
+      "assists": 3,
+      "totalDamageDealtToChampions": 9988,
+      "summoner": "snunup",
+      "win": true,
+      "teamId": 100,
+      "championId": 202,
+      "participantId": 4,
+      "goldEarned": 7578,
+      "kills": 4
+    },
+    {
+      "deaths": 1,
+      "assists": 6,
+      "totalDamageDealtToChampions": 4145,
+      "summoner": "Hide on bush",
+      "win": true,
+      "teamId": 100,
+      "championId": 43,
+      "participantId": 5,
+      "goldEarned": 4894,
+      "kills": 2
+    },
+    {
+      "deaths": 8,
+      "assists": 1,
+      "totalDamageDealtToChampions": 6716,
+      "summoner": "협곡의 전령 빙의",
+      "win": false,
+      "teamId": 200,
+      "championId": 2,
+      "participantId": 6,
+      "goldEarned": 5178,
+      "kills": 0
+    },
+    {
+      "deaths": 2,
+      "assists": 1,
+      "totalDamageDealtToChampions": 4008,
+      "summoner": "Tmeka",
+      "win": false,
+      "teamId": 200,
+      "championId": 64,
+      "participantId": 7,
+      "goldEarned": 6414,
+      "kills": 2
+    },
+    {
+      "deaths": 0,
+      "assists": 1,
+      "totalDamageDealtToChampions": 6567,
+      "summoner": "이게 어려웠나",
+      "win": false,
+      "teamId": 200,
+      "championId": 103,
+      "participantId": 8,
+      "goldEarned": 5398,
+      "kills": 1
+    },
+    {
+      "deaths": 4,
+      "assists": 0,
+      "totalDamageDealtToChampions": 5098,
+      "summoner": "Rifle",
+      "win": false,
+      "teamId": 200,
+      "championId": 804,
+      "participantId": 9,
+      "goldEarned": 4180,
+      "kills": 0
+    },
+    {
+      "deaths": 3,
+      "assists": 0,
+      "totalDamageDealtToChampions": 3139,
+      "summoner": "으이아마앗",
+      "win": false,
+      "teamId": 200,
+      "championId": 117,
+      "participantId": 10,
+      "goldEarned": 3458,
+      "kills": 0
+    }
+  ]
+}

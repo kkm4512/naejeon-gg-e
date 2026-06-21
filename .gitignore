@@ -1,0 +1,28 @@
+# 민감 정보 — 절대 커밋하지 말 것
+.env
+serviceAccountKey.json
+firbaseconfig.js
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+
+# 빌드 산출물
+build/
+dist/
+
+# 테스트 캐시
+.pytest_cache/
+
+# 임시 리포트 파일
+report_*.json
+custom_matches.json
+custom_game_list.json
+filtered_matches.json
+current_summoner.json
+sr_classic.json
+sr통계classic.json
+response*.json

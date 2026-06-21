@@ -1,0 +1,468 @@
+{
+  "runes": [
+    {
+      "perk3": 0,
+      "perkSubStyle": 0,
+      "summoner": "무성무성",
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 1,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "summoner": "7r렌",
+      "perkSubStyle": 0,
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 2,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "summoner": "자신있게싸우자",
+      "perkSubStyle": 0,
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 3,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "perkSubStyle": 0,
+      "summoner": "벚 꽃",
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 4,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "perkSubStyle": 0,
+      "summoner": "우투램",
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 5,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "summoner": "내전아저씨",
+      "perkSubStyle": 0,
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 6,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "perkSubStyle": 0,
+      "summoner": "아하아하",
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 7,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "perkSubStyle": 0,
+      "summoner": "노랑신드라",
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 8,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "perkSubStyle": 0,
+      "summoner": "아흣아흣",
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 9,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "perkSubStyle": 0,
+      "summoner": "수빈몬스터",
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 10,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    }
+  ],
+  "overview": {
+    "gameType": "CUSTOM_GAME",
+    "teamBans": {
+      "100": [],
+      "200": []
+    },
+    "banSummary": "No bans recorded",
+    "gameMode": "KIWI",
+    "gameDuration": 1193,
+    "teams": [
+      {
+        "teamId": 100,
+        "firstBlood": false,
+        "bans": [],
+        "baronKills": 0,
+        "inhibitorKills": 1,
+        "firstBaron": false,
+        "dragonKills": 0,
+        "win": "Fail",
+        "riftHeraldKills": 0,
+        "vilemawKills": 0,
+        "hordeKills": 0,
+        "firstDargon": false,
+        "firstInhibitor": true,
+        "firstTower": true,
+        "towerKills": 4,
+        "dominionVictoryScore": 0
+      },
+      {
+        "teamId": 200,
+        "firstBlood": true,
+        "bans": [],
+        "baronKills": 0,
+        "inhibitorKills": 1,
+        "firstBaron": false,
+        "dragonKills": 0,
+        "win": "Win",
+        "riftHeraldKills": 0,
+        "vilemawKills": 0,
+        "hordeKills": 0,
+        "firstDargon": false,
+        "firstInhibitor": false,
+        "firstTower": false,
+        "towerKills": 4,
+        "dominionVictoryScore": 0
+      }
+    ],
+    "queueId": 3270,
+    "gameCreationDate": "2025-12-19T15:07:09.473Z",
+    "gameId": 7975552424,
+    "mapId": 12
+  },
+  "graphs": {
+    "assists_per_player": [
+      {
+        "assists": 20,
+        "summoner": "무성무성"
+      },
+      {
+        "assists": 32,
+        "summoner": "7r렌"
+      },
+      {
+        "assists": 19,
+        "summoner": "자신있게싸우자"
+      },
+      {
+        "assists": 19,
+        "summoner": "벚 꽃"
+      },
+      {
+        "assists": 16,
+        "summoner": "우투램"
+      },
+      {
+        "assists": 51,
+        "summoner": "내전아저씨"
+      },
+      {
+        "assists": 28,
+        "summoner": "아하아하"
+      },
+      {
+        "assists": 41,
+        "summoner": "노랑신드라"
+      },
+      {
+        "assists": 33,
+        "summoner": "아흣아흣"
+      },
+      {
+        "assists": 36,
+        "summoner": "수빈몬스터"
+      }
+    ],
+    "deaths_per_player": [
+      {
+        "summoner": "무성무성",
+        "deaths": 13
+      },
+      {
+        "summoner": "7r렌",
+        "deaths": 19
+      },
+      {
+        "summoner": "자신있게싸우자",
+        "deaths": 12
+      },
+      {
+        "summoner": "벚 꽃",
+        "deaths": 16
+      },
+      {
+        "summoner": "우투램",
+        "deaths": 13
+      },
+      {
+        "summoner": "내전아저씨",
+        "deaths": 9
+      },
+      {
+        "summoner": "아하아하",
+        "deaths": 6
+      },
+      {
+        "summoner": "노랑신드라",
+        "deaths": 12
+      },
+      {
+        "summoner": "아흣아흣",
+        "deaths": 8
+      },
+      {
+        "summoner": "수빈몬스터",
+        "deaths": 11
+      }
+    ],
+    "kills_per_player": [
+      {
+        "summoner": "무성무성",
+        "kills": 7
+      },
+      {
+        "summoner": "7r렌",
+        "kills": 6
+      },
+      {
+        "summoner": "자신있게싸우자",
+        "kills": 7
+      },
+      {
+        "summoner": "벚 꽃",
+        "kills": 7
+      },
+      {
+        "summoner": "우투램",
+        "kills": 19
+      },
+      {
+        "summoner": "내전아저씨",
+        "kills": 5
+      },
+      {
+        "summoner": "아하아하",
+        "kills": 27
+      },
+      {
+        "summoner": "노랑신드라",
+        "kills": 12
+      },
+      {
+        "summoner": "아흣아흣",
+        "kills": 11
+      },
+      {
+        "summoner": "수빈몬스터",
+        "kills": 17
+      }
+    ],
+    "gold_per_player": [
+      {
+        "summoner": "무성무성",
+        "gold": 17809
+      },
+      {
+        "summoner": "7r렌",
+        "gold": 17986
+      },
+      {
+        "summoner": "자신있게싸우자",
+        "gold": 17840
+      },
+      {
+        "summoner": "벚 꽃",
+        "gold": 17196
+      },
+      {
+        "summoner": "우투램",
+        "gold": 20522
+      },
+      {
+        "summoner": "내전아저씨",
+        "gold": 17534
+      },
+      {
+        "summoner": "아하아하",
+        "gold": 21756
+      },
+      {
+        "summoner": "노랑신드라",
+        "gold": 19566
+      },
+      {
+        "summoner": "아흣아흣",
+        "gold": 18654
+      },
+      {
+        "summoner": "수빈몬스터",
+        "gold": 18926
+      }
+    ]
+  },
+  "stats": [
+    {
+      "teamId": 100,
+      "win": false,
+      "totalDamageDealtToChampions": 38497,
+      "summoner": "무성무성",
+      "deaths": 13,
+      "assists": 20,
+      "championId": 34,
+      "participantId": 1,
+      "goldEarned": 17809,
+      "kills": 7
+    },
+    {
+      "kills": 6,
+      "win": false,
+      "totalDamageDealtToChampions": 34437,
+      "summoner": "7r렌",
+      "assists": 32,
+      "deaths": 19,
+      "championId": 33,
+      "participantId": 2,
+      "goldEarned": 17986,
+      "teamId": 100
+    },
+    {
+      "deaths": 12,
+      "totalDamageDealtToChampions": 35959,
+      "assists": 19,
+      "summoner": "자신있게싸우자",
+      "teamId": 100,
+      "win": false,
+      "championId": 518,
+      "participantId": 3,
+      "goldEarned": 17840,
+      "kills": 7
+    },
+    {
+      "teamId": 100,
+      "totalDamageDealtToChampions": 39104,
+      "assists": 19,
+      "summoner": "벚 꽃",
+      "win": false,
+      "deaths": 16,
+      "championId": 22,
+      "participantId": 4,
+      "goldEarned": 17196,
+      "kills": 7
+    },
+    {
+      "kills": 19,
+      "totalDamageDealtToChampions": 42606,
+      "win": false,
+      "summoner": "우투램",
+      "assists": 16,
+      "deaths": 13,
+      "championId": 84,
+      "participantId": 5,
+      "goldEarned": 20522,
+      "teamId": 100
+    },
+    {
+      "deaths": 9,
+      "assists": 51,
+      "teamId": 200,
+      "summoner": "내전아저씨",
+      "win": true,
+      "totalDamageDealtToChampions": 29710,
+      "championId": 201,
+      "participantId": 6,
+      "goldEarned": 17534,
+      "kills": 5
+    },
+    {
+      "deaths": 6,
+      "win": true,
+      "assists": 28,
+      "summoner": "아하아하",
+      "totalDamageDealtToChampions": 53181,
+      "teamId": 200,
+      "championId": 800,
+      "participantId": 7,
+      "goldEarned": 21756,
+      "kills": 27
+    },
+    {
+      "deaths": 12,
+      "win": true,
+      "assists": 41,
+      "summoner": "노랑신드라",
+      "totalDamageDealtToChampions": 60622,
+      "teamId": 200,
+      "championId": 74,
+      "participantId": 8,
+      "goldEarned": 19566,
+      "kills": 12
+    },
+    {
+      "deaths": 8,
+      "assists": 33,
+      "totalDamageDealtToChampions": 39909,
+      "summoner": "아흣아흣",
+      "win": true,
+      "teamId": 200,
+      "championId": 81,
+      "participantId": 9,
+      "goldEarned": 18654,
+      "kills": 11
+    },
+    {
+      "deaths": 11,
+      "totalDamageDealtToChampions": 55791,
+      "win": true,
+      "summoner": "수빈몬스터",
+      "teamId": 200,
+      "assists": 36,
+      "championId": 142,
+      "participantId": 10,
+      "goldEarned": 18926,
+      "kills": 17
+    }
+  ]
+}

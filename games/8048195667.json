@@ -1,0 +1,468 @@
+{
+  "runes": [
+    {
+      "perk3": 0,
+      "summoner": "연 꽃",
+      "perkSubStyle": 0,
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 1,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "summoner": "아흣아흣",
+      "perkSubStyle": 0,
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 2,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "summoner": "아하아하",
+      "perkSubStyle": 0,
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 3,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "summoner": "와 규",
+      "perkSubStyle": 0,
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 4,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "summoner": "Just this one",
+      "perkSubStyle": 0,
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 5,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "summoner": "강통짱",
+      "perkSubStyle": 0,
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 6,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "summoner": "자신있게싸우자",
+      "perkSubStyle": 0,
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 7,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "summoner": "수빈몬스터",
+      "perkSubStyle": 0,
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 8,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "summoner": "내전아저씨",
+      "perkSubStyle": 0,
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 9,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "summoner": "go0595",
+      "perkSubStyle": 0,
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 10,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    }
+  ],
+  "overview": {
+    "gameType": "CUSTOM_GAME",
+    "teamBans": {
+      "100": [],
+      "200": []
+    },
+    "gameMode": "KIWI",
+    "banSummary": "No bans recorded",
+    "gameDuration": 1538,
+    "teams": [
+      {
+        "dominionVictoryScore": 0,
+        "firstBlood": true,
+        "bans": [],
+        "baronKills": 0,
+        "inhibitorKills": 1,
+        "firstBaron": false,
+        "dragonKills": 0,
+        "win": "Fail",
+        "riftHeraldKills": 0,
+        "vilemawKills": 0,
+        "hordeKills": 0,
+        "firstDargon": false,
+        "firstInhibitor": false,
+        "firstTower": false,
+        "towerKills": 2,
+        "teamId": 100
+      },
+      {
+        "dominionVictoryScore": 0,
+        "firstBlood": false,
+        "bans": [],
+        "baronKills": 0,
+        "inhibitorKills": 2,
+        "firstBaron": false,
+        "dragonKills": 0,
+        "win": "Win",
+        "riftHeraldKills": 0,
+        "vilemawKills": 0,
+        "hordeKills": 0,
+        "firstDargon": false,
+        "firstInhibitor": true,
+        "firstTower": true,
+        "towerKills": 4,
+        "teamId": 200
+      }
+    ],
+    "queueId": 3270,
+    "gameCreationDate": "2026-01-24T17:02:12.399Z",
+    "gameId": 8048195667,
+    "mapId": 12
+  },
+  "graphs": {
+    "assists_per_player": [
+      {
+        "assists": 46,
+        "summoner": "연 꽃"
+      },
+      {
+        "assists": 33,
+        "summoner": "아흣아흣"
+      },
+      {
+        "assists": 59,
+        "summoner": "아하아하"
+      },
+      {
+        "assists": 45,
+        "summoner": "와 규"
+      },
+      {
+        "assists": 30,
+        "summoner": "Just this one"
+      },
+      {
+        "assists": 39,
+        "summoner": "강통짱"
+      },
+      {
+        "assists": 45,
+        "summoner": "자신있게싸우자"
+      },
+      {
+        "assists": 23,
+        "summoner": "수빈몬스터"
+      },
+      {
+        "assists": 24,
+        "summoner": "내전아저씨"
+      },
+      {
+        "assists": 57,
+        "summoner": "go0595"
+      }
+    ],
+    "deaths_per_player": [
+      {
+        "summoner": "연 꽃",
+        "deaths": 19
+      },
+      {
+        "summoner": "아흣아흣",
+        "deaths": 17
+      },
+      {
+        "summoner": "아하아하",
+        "deaths": 17
+      },
+      {
+        "summoner": "와 규",
+        "deaths": 16
+      },
+      {
+        "summoner": "Just this one",
+        "deaths": 20
+      },
+      {
+        "summoner": "강통짱",
+        "deaths": 16
+      },
+      {
+        "summoner": "자신있게싸우자",
+        "deaths": 15
+      },
+      {
+        "summoner": "수빈몬스터",
+        "deaths": 19
+      },
+      {
+        "summoner": "내전아저씨",
+        "deaths": 19
+      },
+      {
+        "summoner": "go0595",
+        "deaths": 16
+      }
+    ],
+    "kills_per_player": [
+      {
+        "summoner": "연 꽃",
+        "kills": 8
+      },
+      {
+        "summoner": "아흣아흣",
+        "kills": 25
+      },
+      {
+        "summoner": "아하아하",
+        "kills": 12
+      },
+      {
+        "summoner": "와 규",
+        "kills": 13
+      },
+      {
+        "summoner": "Just this one",
+        "kills": 27
+      },
+      {
+        "summoner": "강통짱",
+        "kills": 12
+      },
+      {
+        "summoner": "자신있게싸우자",
+        "kills": 10
+      },
+      {
+        "summoner": "수빈몬스터",
+        "kills": 31
+      },
+      {
+        "summoner": "내전아저씨",
+        "kills": 28
+      },
+      {
+        "summoner": "go0595",
+        "kills": 8
+      }
+    ],
+    "gold_per_player": [
+      {
+        "summoner": "연 꽃",
+        "gold": 23916
+      },
+      {
+        "summoner": "아흣아흣",
+        "gold": 27250
+      },
+      {
+        "summoner": "아하아하",
+        "gold": 24090
+      },
+      {
+        "summoner": "와 규",
+        "gold": 24177
+      },
+      {
+        "summoner": "Just this one",
+        "gold": 26874
+      },
+      {
+        "summoner": "강통짱",
+        "gold": 25903
+      },
+      {
+        "summoner": "자신있게싸우자",
+        "gold": 24317
+      },
+      {
+        "summoner": "수빈몬스터",
+        "gold": 26905
+      },
+      {
+        "summoner": "내전아저씨",
+        "gold": 27216
+      },
+      {
+        "summoner": "go0595",
+        "gold": 27105
+      }
+    ]
+  },
+  "stats": [
+    {
+      "deaths": 19,
+      "assists": 46,
+      "totalDamageDealtToChampions": 53594,
+      "summoner": "연 꽃",
+      "win": false,
+      "teamId": 100,
+      "championId": 81,
+      "participantId": 1,
+      "goldEarned": 23916,
+      "kills": 8
+    },
+    {
+      "deaths": 17,
+      "assists": 33,
+      "totalDamageDealtToChampions": 83577,
+      "summoner": "아흣아흣",
+      "win": false,
+      "teamId": 100,
+      "championId": 221,
+      "participantId": 2,
+      "goldEarned": 27250,
+      "kills": 25
+    },
+    {
+      "deaths": 17,
+      "assists": 59,
+      "totalDamageDealtToChampions": 101106,
+      "summoner": "아하아하",
+      "win": false,
+      "teamId": 100,
+      "championId": 89,
+      "participantId": 3,
+      "goldEarned": 24090,
+      "kills": 12
+    },
+    {
+      "deaths": 16,
+      "assists": 45,
+      "totalDamageDealtToChampions": 60256,
+      "summoner": "와 규",
+      "win": false,
+      "teamId": 100,
+      "championId": 268,
+      "participantId": 4,
+      "goldEarned": 24177,
+      "kills": 13
+    },
+    {
+      "deaths": 20,
+      "assists": 30,
+      "totalDamageDealtToChampions": 67037,
+      "summoner": "Just this one",
+      "win": false,
+      "teamId": 100,
+      "championId": 104,
+      "participantId": 5,
+      "goldEarned": 26874,
+      "kills": 27
+    },
+    {
+      "deaths": 16,
+      "assists": 39,
+      "totalDamageDealtToChampions": 142193,
+      "summoner": "강통짱",
+      "win": true,
+      "teamId": 200,
+      "championId": 23,
+      "participantId": 6,
+      "goldEarned": 25903,
+      "kills": 12
+    },
+    {
+      "deaths": 15,
+      "assists": 45,
+      "totalDamageDealtToChampions": 70393,
+      "summoner": "자신있게싸우자",
+      "win": true,
+      "teamId": 200,
+      "championId": 79,
+      "participantId": 7,
+      "goldEarned": 24317,
+      "kills": 10
+    },
+    {
+      "deaths": 19,
+      "assists": 23,
+      "totalDamageDealtToChampions": 87843,
+      "summoner": "수빈몬스터",
+      "win": true,
+      "teamId": 200,
+      "championId": 105,
+      "participantId": 8,
+      "goldEarned": 26905,
+      "kills": 31
+    },
+    {
+      "deaths": 19,
+      "assists": 24,
+      "totalDamageDealtToChampions": 89478,
+      "summoner": "내전아저씨",
+      "win": true,
+      "teamId": 200,
+      "championId": 64,
+      "participantId": 9,
+      "goldEarned": 27216,
+      "kills": 28
+    },
+    {
+      "deaths": 16,
+      "assists": 57,
+      "totalDamageDealtToChampions": 48550,
+      "summoner": "go0595",
+      "win": true,
+      "teamId": 200,
+      "championId": 57,
+      "participantId": 10,
+      "goldEarned": 27105,
+      "kills": 8
+    }
+  ]
+}

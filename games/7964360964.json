@@ -1,0 +1,468 @@
+{
+  "runes": [
+    {
+      "perk3": 0,
+      "perkSubStyle": 0,
+      "summoner": "최승남",
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 1,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "perkSubStyle": 0,
+      "summoner": "아흣아흣",
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 2,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "perkSubStyle": 0,
+      "summoner": "수빈몬스터",
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 3,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "summoner": "바즈큐즈",
+      "perkSubStyle": 0,
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 4,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "perkSubStyle": 0,
+      "summoner": "노랑신드라",
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 5,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "perkSubStyle": 0,
+      "summoner": "연 꽃",
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 6,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "perkSubStyle": 0,
+      "summoner": "강통짱",
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 7,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "perkSubStyle": 0,
+      "summoner": "떡갈나무 회초리",
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 8,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "perkSubStyle": 0,
+      "summoner": "백두혈통동무",
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 9,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    },
+    {
+      "perk3": 0,
+      "perkSubStyle": 0,
+      "summoner": "자신있게싸우자",
+      "perk1": 0,
+      "perk4": 0,
+      "perk2": 0,
+      "perk5": 0,
+      "participantId": 10,
+      "perkPrimaryStyle": 0,
+      "perk0": 0
+    }
+  ],
+  "overview": {
+    "gameType": "CUSTOM_GAME",
+    "teamBans": {
+      "100": [],
+      "200": []
+    },
+    "gameMode": "KIWI",
+    "banSummary": "No bans recorded",
+    "gameDuration": 823,
+    "teams": [
+      {
+        "teamId": 100,
+        "firstBlood": false,
+        "bans": [],
+        "baronKills": 0,
+        "inhibitorKills": 1,
+        "firstBaron": false,
+        "dragonKills": 0,
+        "firstInhibitor": true,
+        "riftHeraldKills": 0,
+        "vilemawKills": 0,
+        "hordeKills": 0,
+        "firstDargon": false,
+        "win": "Win",
+        "firstTower": true,
+        "towerKills": 4,
+        "dominionVictoryScore": 0
+      },
+      {
+        "teamId": 200,
+        "firstBlood": true,
+        "bans": [],
+        "baronKills": 0,
+        "inhibitorKills": 0,
+        "firstBaron": false,
+        "dragonKills": 0,
+        "win": "Fail",
+        "riftHeraldKills": 0,
+        "vilemawKills": 0,
+        "hordeKills": 0,
+        "firstDargon": false,
+        "firstInhibitor": false,
+        "firstTower": false,
+        "towerKills": 1,
+        "dominionVictoryScore": 0
+      }
+    ],
+    "queueId": 3270,
+    "gameCreationDate": "2025-12-13T16:47:24.806Z",
+    "gameId": 7964360964,
+    "mapId": 12
+  },
+  "graphs": {
+    "assists_per_player": [
+      {
+        "assists": 25,
+        "summoner": "최승남"
+      },
+      {
+        "assists": 22,
+        "summoner": "아흣아흣"
+      },
+      {
+        "assists": 28,
+        "summoner": "수빈몬스터"
+      },
+      {
+        "assists": 19,
+        "summoner": "바즈큐즈"
+      },
+      {
+        "assists": 35,
+        "summoner": "노랑신드라"
+      },
+      {
+        "assists": 13,
+        "summoner": "연 꽃"
+      },
+      {
+        "assists": 20,
+        "summoner": "강통짱"
+      },
+      {
+        "assists": 12,
+        "summoner": "떡갈나무 회초리"
+      },
+      {
+        "assists": 15,
+        "summoner": "백두혈통동무"
+      },
+      {
+        "assists": 9,
+        "summoner": "자신있게싸우자"
+      }
+    ],
+    "deaths_per_player": [
+      {
+        "summoner": "최승남",
+        "deaths": 6
+      },
+      {
+        "summoner": "아흣아흣",
+        "deaths": 8
+      },
+      {
+        "summoner": "수빈몬스터",
+        "deaths": 6
+      },
+      {
+        "summoner": "바즈큐즈",
+        "deaths": 7
+      },
+      {
+        "summoner": "노랑신드라",
+        "deaths": 3
+      },
+      {
+        "summoner": "연 꽃",
+        "deaths": 5
+      },
+      {
+        "summoner": "강통짱",
+        "deaths": 9
+      },
+      {
+        "summoner": "떡갈나무 회초리",
+        "deaths": 8
+      },
+      {
+        "summoner": "백두혈통동무",
+        "deaths": 9
+      },
+      {
+        "summoner": "자신있게싸우자",
+        "deaths": 11
+      }
+    ],
+    "kills_per_player": [
+      {
+        "summoner": "최승남",
+        "kills": 10
+      },
+      {
+        "summoner": "아흣아흣",
+        "kills": 5
+      },
+      {
+        "summoner": "수빈몬스터",
+        "kills": 7
+      },
+      {
+        "summoner": "바즈큐즈",
+        "kills": 15
+      },
+      {
+        "summoner": "노랑신드라",
+        "kills": 5
+      },
+      {
+        "summoner": "연 꽃",
+        "kills": 9
+      },
+      {
+        "summoner": "강통짱",
+        "kills": 2
+      },
+      {
+        "summoner": "떡갈나무 회초리",
+        "kills": 10
+      },
+      {
+        "summoner": "백두혈통동무",
+        "kills": 5
+      },
+      {
+        "summoner": "자신있게싸우자",
+        "kills": 4
+      }
+    ],
+    "gold_per_player": [
+      {
+        "summoner": "최승남",
+        "gold": 13218
+      },
+      {
+        "summoner": "아흣아흣",
+        "gold": 11425
+      },
+      {
+        "summoner": "수빈몬스터",
+        "gold": 12031
+      },
+      {
+        "summoner": "바즈큐즈",
+        "gold": 13208
+      },
+      {
+        "summoner": "노랑신드라",
+        "gold": 12415
+      },
+      {
+        "summoner": "연 꽃",
+        "gold": 12332
+      },
+      {
+        "summoner": "강통짱",
+        "gold": 10352
+      },
+      {
+        "summoner": "떡갈나무 회초리",
+        "gold": 12773
+      },
+      {
+        "summoner": "백두혈통동무",
+        "gold": 11230
+      },
+      {
+        "summoner": "자신있게싸우자",
+        "gold": 10505
+      }
+    ]
+  },
+  "stats": [
+    {
+      "deaths": 6,
+      "assists": 25,
+      "totalDamageDealtToChampions": 33411,
+      "summoner": "최승남",
+      "kills": 10,
+      "win": true,
+      "championId": 21,
+      "participantId": 1,
+      "goldEarned": 13218,
+      "teamId": 100
+    },
+    {
+      "kills": 5,
+      "totalDamageDealtToChampions": 22200,
+      "win": true,
+      "summoner": "아흣아흣",
+      "deaths": 8,
+      "assists": 22,
+      "championId": 897,
+      "participantId": 2,
+      "goldEarned": 11425,
+      "teamId": 100
+    },
+    {
+      "kills": 7,
+      "win": true,
+      "totalDamageDealtToChampions": 21092,
+      "summoner": "수빈몬스터",
+      "teamId": 100,
+      "assists": 28,
+      "championId": 25,
+      "participantId": 3,
+      "goldEarned": 12031,
+      "deaths": 6
+    },
+    {
+      "teamId": 100,
+      "assists": 19,
+      "totalDamageDealtToChampions": 32570,
+      "summoner": "바즈큐즈",
+      "win": true,
+      "kills": 15,
+      "championId": 48,
+      "participantId": 4,
+      "goldEarned": 13208,
+      "deaths": 7
+    },
+    {
+      "teamId": 100,
+      "assists": 35,
+      "totalDamageDealtToChampions": 11497,
+      "summoner": "노랑신드라",
+      "win": true,
+      "kills": 5,
+      "championId": 427,
+      "participantId": 5,
+      "goldEarned": 12415,
+      "deaths": 3
+    },
+    {
+      "kills": 9,
+      "totalDamageDealtToChampions": 21873,
+      "assists": 13,
+      "summoner": "연 꽃",
+      "win": false,
+      "teamId": 200,
+      "championId": 64,
+      "participantId": 6,
+      "goldEarned": 12332,
+      "deaths": 5
+    },
+    {
+      "deaths": 9,
+      "totalDamageDealtToChampions": 7918,
+      "win": false,
+      "summoner": "강통짱",
+      "teamId": 200,
+      "assists": 20,
+      "championId": 44,
+      "participantId": 7,
+      "goldEarned": 10352,
+      "kills": 2
+    },
+    {
+      "deaths": 8,
+      "assists": 12,
+      "totalDamageDealtToChampions": 32281,
+      "summoner": "떡갈나무 회초리",
+      "kills": 10,
+      "win": false,
+      "championId": 51,
+      "participantId": 8,
+      "goldEarned": 12773,
+      "teamId": 200
+    },
+    {
+      "teamId": 200,
+      "win": false,
+      "assists": 15,
+      "summoner": "백두혈통동무",
+      "deaths": 9,
+      "totalDamageDealtToChampions": 15277,
+      "championId": 85,
+      "participantId": 9,
+      "goldEarned": 11230,
+      "kills": 5
+    },
+    {
+      "deaths": 11,
+      "assists": 9,
+      "win": false,
+      "summoner": "자신있게싸우자",
+      "totalDamageDealtToChampions": 18985,
+      "kills": 4,
+      "championId": 164,
+      "participantId": 10,
+      "goldEarned": 10505,
+      "teamId": 200
+    }
+  ]
+}

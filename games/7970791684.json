@@ -1,0 +1,148 @@
+{
+  "runes": [
+    {
+      "perk3": 8014,
+      "summoner": "안신레몬",
+      "perkSubStyle": 8100,
+      "perk1": 8009,
+      "perk4": 8139,
+      "perk2": 9103,
+      "perk5": 8135,
+      "participantId": 1,
+      "perkPrimaryStyle": 8000,
+      "perk0": 8005
+    },
+    {
+      "perk3": 8237,
+      "summoner": "수빈몬스터",
+      "perkSubStyle": 8300,
+      "perk1": 8226,
+      "perk4": 8345,
+      "perk2": 8210,
+      "perk5": 8347,
+      "participantId": 2,
+      "perkPrimaryStyle": 8200,
+      "perk0": 8229
+    }
+  ],
+  "overview": {
+    "gameType": "CUSTOM_GAME",
+    "teamBans": {
+      "100": [],
+      "200": []
+    },
+    "banSummary": "No bans recorded",
+    "gameMode": "ARAM",
+    "gameDuration": 274,
+    "teams": [
+      {
+        "dominionVictoryScore": 0,
+        "firstBlood": false,
+        "bans": [],
+        "baronKills": 0,
+        "inhibitorKills": 0,
+        "firstBaron": false,
+        "dragonKills": 0,
+        "win": "Fail",
+        "riftHeraldKills": 0,
+        "vilemawKills": 0,
+        "hordeKills": 0,
+        "firstDargon": false,
+        "firstInhibitor": false,
+        "firstTower": false,
+        "towerKills": 0,
+        "teamId": 100
+      },
+      {
+        "dominionVictoryScore": 0,
+        "firstBlood": true,
+        "bans": [],
+        "baronKills": 0,
+        "inhibitorKills": 0,
+        "firstBaron": false,
+        "dragonKills": 0,
+        "firstInhibitor": false,
+        "riftHeraldKills": 0,
+        "vilemawKills": 0,
+        "hordeKills": 0,
+        "firstDargon": false,
+        "win": "Fail",
+        "firstTower": false,
+        "towerKills": 0,
+        "teamId": 200
+      }
+    ],
+    "queueId": 3220,
+    "gameCreationDate": "2025-12-17T05:35:13.945Z",
+    "gameId": 7970791684,
+    "mapId": 12
+  },
+  "graphs": {
+    "assists_per_player": [
+      {
+        "assists": 0,
+        "summoner": "안신레몬"
+      },
+      {
+        "assists": 0,
+        "summoner": "수빈몬스터"
+      }
+    ],
+    "deaths_per_player": [
+      {
+        "summoner": "안신레몬",
+        "deaths": 2
+      },
+      {
+        "summoner": "수빈몬스터",
+        "deaths": 1
+      }
+    ],
+    "kills_per_player": [
+      {
+        "summoner": "안신레몬",
+        "kills": 1
+      },
+      {
+        "summoner": "수빈몬스터",
+        "kills": 2
+      }
+    ],
+    "gold_per_player": [
+      {
+        "summoner": "안신레몬",
+        "gold": 3551
+      },
+      {
+        "summoner": "수빈몬스터",
+        "gold": 3780
+      }
+    ]
+  },
+  "stats": [
+    {
+      "teamId": 100,
+      "totalDamageDealtToChampions": 1991,
+      "kills": 1,
+      "summoner": "안신레몬",
+      "win": false,
+      "assists": 0,
+      "championId": 110,
+      "participantId": 1,
+      "goldEarned": 3551,
+      "deaths": 2
+    },
+    {
+      "teamId": 200,
+      "totalDamageDealtToChampions": 2589,
+      "deaths": 1,
+      "summoner": "수빈몬스터",
+      "win": false,
+      "assists": 0,
+      "championId": 43,
+      "participantId": 2,
+      "goldEarned": 3780,
+      "kills": 2
+    }
+  ]
+}

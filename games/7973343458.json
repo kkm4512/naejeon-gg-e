@@ -1,0 +1,597 @@
+{
+  "runes": [
+    {
+      "perk3": 8299,
+      "summoner": "듀오점",
+      "perkSubStyle": 8400,
+      "perk1": 9111,
+      "perk4": 8473,
+      "perk2": 9105,
+      "perk5": 8453,
+      "participantId": 1,
+      "perkPrimaryStyle": 8000,
+      "perk0": 8010
+    },
+    {
+      "perk3": 8347,
+      "perkSubStyle": 8100,
+      "summoner": "쌔뙤크",
+      "perk1": 8321,
+      "perk4": 8143,
+      "perk2": 8313,
+      "perk5": 8135,
+      "participantId": 2,
+      "perkPrimaryStyle": 8300,
+      "perk0": 8369
+    },
+    {
+      "perk3": 8014,
+      "perkSubStyle": 8200,
+      "summoner": "자신있게싸우자",
+      "perk1": 9111,
+      "perk4": 8237,
+      "perk2": 9104,
+      "perk5": 8226,
+      "participantId": 3,
+      "perkPrimaryStyle": 8000,
+      "perk0": 8005
+    },
+    {
+      "perk3": 8237,
+      "perkSubStyle": 8400,
+      "summoner": "수빈몬스터",
+      "perk1": 8226,
+      "perk4": 8473,
+      "perk2": 8210,
+      "perk5": 8453,
+      "participantId": 4,
+      "perkPrimaryStyle": 8200,
+      "perk0": 8214
+    },
+    {
+      "perk3": 8237,
+      "summoner": "스칼을 탄 클레드 왕자님",
+      "perkSubStyle": 8300,
+      "perk1": 8226,
+      "perk4": 8321,
+      "perk2": 8210,
+      "perk5": 8313,
+      "participantId": 5,
+      "perkPrimaryStyle": 8200,
+      "perk0": 8214
+    },
+    {
+      "perk3": 8014,
+      "perkSubStyle": 8100,
+      "summoner": "내전아저씨",
+      "perk1": 9111,
+      "perk4": 8105,
+      "perk2": 9104,
+      "perk5": 8143,
+      "participantId": 6,
+      "perkPrimaryStyle": 8000,
+      "perk0": 8010
+    },
+    {
+      "perk3": 8299,
+      "summoner": "아하아하",
+      "perkSubStyle": 8400,
+      "perk1": 9111,
+      "perk4": 8446,
+      "perk2": 9104,
+      "perk5": 8451,
+      "participantId": 7,
+      "perkPrimaryStyle": 8000,
+      "perk0": 8010
+    },
+    {
+      "perk3": 8237,
+      "perkSubStyle": 8000,
+      "summoner": "아흣아흣",
+      "perk1": 8226,
+      "perk4": 8009,
+      "perk2": 8210,
+      "perk5": 9105,
+      "participantId": 8,
+      "perkPrimaryStyle": 8200,
+      "perk0": 8230
+    },
+    {
+      "perk3": 8105,
+      "summoner": "정글 망겜",
+      "perkSubStyle": 8200,
+      "perk1": 8143,
+      "perk4": 8210,
+      "perk2": 8140,
+      "perk5": 8226,
+      "participantId": 9,
+      "perkPrimaryStyle": 8100,
+      "perk0": 8112
+    },
+    {
+      "perk3": 8316,
+      "summoner": "무성무성",
+      "perkSubStyle": 8200,
+      "perk1": 8321,
+      "perk4": 8236,
+      "perk2": 8345,
+      "perk5": 8226,
+      "participantId": 10,
+      "perkPrimaryStyle": 8300,
+      "perk0": 8369
+    }
+  ],
+  "graphs": {
+    "assists_per_player": [
+      {
+        "assists": 2,
+        "summoner": "듀오점"
+      },
+      {
+        "assists": 2,
+        "summoner": "쌔뙤크"
+      },
+      {
+        "assists": 2,
+        "summoner": "자신있게싸우자"
+      },
+      {
+        "assists": 8,
+        "summoner": "수빈몬스터"
+      },
+      {
+        "assists": 3,
+        "summoner": "스칼을 탄 클레드 왕자님"
+      },
+      {
+        "assists": 16,
+        "summoner": "내전아저씨"
+      },
+      {
+        "assists": 8,
+        "summoner": "아하아하"
+      },
+      {
+        "assists": 10,
+        "summoner": "아흣아흣"
+      },
+      {
+        "assists": 8,
+        "summoner": "정글 망겜"
+      },
+      {
+        "assists": 7,
+        "summoner": "무성무성"
+      }
+    ],
+    "deaths_per_player": [
+      {
+        "summoner": "듀오점",
+        "deaths": 4
+      },
+      {
+        "summoner": "쌔뙤크",
+        "deaths": 5
+      },
+      {
+        "summoner": "자신있게싸우자",
+        "deaths": 7
+      },
+      {
+        "summoner": "수빈몬스터",
+        "deaths": 7
+      },
+      {
+        "summoner": "스칼을 탄 클레드 왕자님",
+        "deaths": 7
+      },
+      {
+        "summoner": "내전아저씨",
+        "deaths": 2
+      },
+      {
+        "summoner": "아하아하",
+        "deaths": 2
+      },
+      {
+        "summoner": "아흣아흣",
+        "deaths": 4
+      },
+      {
+        "summoner": "정글 망겜",
+        "deaths": 4
+      },
+      {
+        "summoner": "무성무성",
+        "deaths": 4
+      }
+    ],
+    "kills_per_player": [
+      {
+        "summoner": "듀오점",
+        "kills": 0
+      },
+      {
+        "summoner": "쌔뙤크",
+        "kills": 3
+      },
+      {
+        "summoner": "자신있게싸우자",
+        "kills": 6
+      },
+      {
+        "summoner": "수빈몬스터",
+        "kills": 3
+      },
+      {
+        "summoner": "스칼을 탄 클레드 왕자님",
+        "kills": 3
+      },
+      {
+        "summoner": "내전아저씨",
+        "kills": 5
+      },
+      {
+        "summoner": "아하아하",
+        "kills": 3
+      },
+      {
+        "summoner": "아흣아흣",
+        "kills": 5
+      },
+      {
+        "summoner": "정글 망겜",
+        "kills": 9
+      },
+      {
+        "summoner": "무성무성",
+        "kills": 8
+      }
+    ],
+    "gold_per_player": [
+      {
+        "summoner": "듀오점",
+        "gold": 10013
+      },
+      {
+        "summoner": "쌔뙤크",
+        "gold": 13548
+      },
+      {
+        "summoner": "자신있게싸우자",
+        "gold": 15959
+      },
+      {
+        "summoner": "수빈몬스터",
+        "gold": 9830
+      },
+      {
+        "summoner": "스칼을 탄 클레드 왕자님",
+        "gold": 13682
+      },
+      {
+        "summoner": "내전아저씨",
+        "gold": 14340
+      },
+      {
+        "summoner": "아하아하",
+        "gold": 14073
+      },
+      {
+        "summoner": "아흣아흣",
+        "gold": 15911
+      },
+      {
+        "summoner": "정글 망겜",
+        "gold": 11399
+      },
+      {
+        "summoner": "무성무성",
+        "gold": 15966
+      }
+    ]
+  },
+  "overview": {
+    "gameType": "CUSTOM_GAME",
+    "teamBans": {
+      "100": [
+        {
+          "championId": 54,
+          "pickTurn": 1
+        },
+        {
+          "championId": 904,
+          "pickTurn": 3
+        },
+        {
+          "championId": 60,
+          "pickTurn": 5
+        },
+        {
+          "championId": 80,
+          "pickTurn": 8
+        },
+        {
+          "championId": 516,
+          "pickTurn": 10
+        }
+      ],
+      "200": [
+        {
+          "championId": 77,
+          "pickTurn": 2
+        },
+        {
+          "championId": 81,
+          "pickTurn": 4
+        },
+        {
+          "championId": 497,
+          "pickTurn": 6
+        },
+        {
+          "championId": 117,
+          "pickTurn": 7
+        },
+        {
+          "championId": 22,
+          "pickTurn": 9
+        }
+      ]
+    },
+    "gameMode": "CLASSIC",
+    "banSummary": {
+      "100": [
+        {
+          "championId": 54,
+          "pickTurn": 1
+        },
+        {
+          "championId": 904,
+          "pickTurn": 3
+        },
+        {
+          "championId": 60,
+          "pickTurn": 5
+        },
+        {
+          "championId": 80,
+          "pickTurn": 8
+        },
+        {
+          "championId": 516,
+          "pickTurn": 10
+        }
+      ],
+      "200": [
+        {
+          "championId": 77,
+          "pickTurn": 2
+        },
+        {
+          "championId": 81,
+          "pickTurn": 4
+        },
+        {
+          "championId": 497,
+          "pickTurn": 6
+        },
+        {
+          "championId": 117,
+          "pickTurn": 7
+        },
+        {
+          "championId": 22,
+          "pickTurn": 9
+        }
+      ]
+    },
+    "gameDuration": 2044,
+    "teams": [
+      {
+        "teamId": 100,
+        "firstBlood": true,
+        "bans": [
+          {
+            "championId": 54,
+            "pickTurn": 1
+          },
+          {
+            "championId": 904,
+            "pickTurn": 3
+          },
+          {
+            "championId": 60,
+            "pickTurn": 5
+          },
+          {
+            "championId": 80,
+            "pickTurn": 8
+          },
+          {
+            "championId": 516,
+            "pickTurn": 10
+          }
+        ],
+        "baronKills": 0,
+        "inhibitorKills": 0,
+        "firstBaron": false,
+        "dragonKills": 3,
+        "firstInhibitor": false,
+        "riftHeraldKills": 0,
+        "vilemawKills": 0,
+        "hordeKills": 3,
+        "firstDargon": true,
+        "win": "Fail",
+        "firstTower": true,
+        "towerKills": 3,
+        "dominionVictoryScore": 0
+      },
+      {
+        "teamId": 200,
+        "firstBlood": false,
+        "bans": [
+          {
+            "championId": 77,
+            "pickTurn": 2
+          },
+          {
+            "championId": 81,
+            "pickTurn": 4
+          },
+          {
+            "championId": 497,
+            "pickTurn": 6
+          },
+          {
+            "championId": 117,
+            "pickTurn": 7
+          },
+          {
+            "championId": 22,
+            "pickTurn": 9
+          }
+        ],
+        "baronKills": 1,
+        "inhibitorKills": 3,
+        "firstBaron": true,
+        "dragonKills": 2,
+        "firstInhibitor": true,
+        "riftHeraldKills": 1,
+        "vilemawKills": 0,
+        "hordeKills": 0,
+        "firstDargon": false,
+        "win": "Win",
+        "firstTower": false,
+        "towerKills": 12,
+        "dominionVictoryScore": 0
+      }
+    ],
+    "queueId": 3130,
+    "gameCreationDate": "2025-12-18T13:00:12.379Z",
+    "gameId": 7973343458,
+    "mapId": 11
+  },
+  "stats": [
+    {
+      "deaths": 4,
+      "win": false,
+      "kills": 0,
+      "summoner": "듀오점",
+      "assists": 2,
+      "totalDamageDealtToChampions": 15403,
+      "championId": 266,
+      "participantId": 1,
+      "goldEarned": 10013,
+      "teamId": 100
+    },
+    {
+      "kills": 3,
+      "win": false,
+      "totalDamageDealtToChampions": 16467,
+      "summoner": "쌔뙤크",
+      "deaths": 5,
+      "assists": 2,
+      "championId": 121,
+      "participantId": 2,
+      "goldEarned": 13548,
+      "teamId": 100
+    },
+    {
+      "deaths": 7,
+      "win": false,
+      "totalDamageDealtToChampions": 27481,
+      "summoner": "자신있게싸우자",
+      "assists": 2,
+      "kills": 6,
+      "championId": 236,
+      "participantId": 3,
+      "goldEarned": 15959,
+      "teamId": 100
+    },
+    {
+      "deaths": 7,
+      "win": false,
+      "totalDamageDealtToChampions": 17657,
+      "summoner": "수빈몬스터",
+      "teamId": 100,
+      "assists": 8,
+      "championId": 267,
+      "participantId": 4,
+      "goldEarned": 9830,
+      "kills": 3
+    },
+    {
+      "kills": 3,
+      "assists": 3,
+      "totalDamageDealtToChampions": 23954,
+      "summoner": "스칼을 탄 클레드 왕자님",
+      "teamId": 100,
+      "win": false,
+      "championId": 112,
+      "participantId": 5,
+      "goldEarned": 13682,
+      "deaths": 7
+    },
+    {
+      "deaths": 2,
+      "totalDamageDealtToChampions": 20238,
+      "kills": 5,
+      "summoner": "내전아저씨",
+      "win": true,
+      "assists": 16,
+      "championId": 59,
+      "participantId": 6,
+      "goldEarned": 14340,
+      "teamId": 200
+    },
+    {
+      "deaths": 2,
+      "totalDamageDealtToChampions": 23090,
+      "win": true,
+      "summoner": "아하아하",
+      "assists": 8,
+      "kills": 3,
+      "championId": 58,
+      "participantId": 7,
+      "goldEarned": 14073,
+      "teamId": 200
+    },
+    {
+      "kills": 5,
+      "assists": 10,
+      "totalDamageDealtToChampions": 30633,
+      "summoner": "아흣아흣",
+      "win": true,
+      "teamId": 200,
+      "championId": 61,
+      "participantId": 8,
+      "goldEarned": 15911,
+      "deaths": 4
+    },
+    {
+      "kills": 9,
+      "totalDamageDealtToChampions": 17364,
+      "win": true,
+      "summoner": "정글 망겜",
+      "assists": 8,
+      "teamId": 200,
+      "championId": 7,
+      "participantId": 9,
+      "goldEarned": 11399,
+      "deaths": 4
+    },
+    {
+      "deaths": 4,
+      "assists": 7,
+      "totalDamageDealtToChampions": 20637,
+      "summoner": "무성무성",
+      "teamId": 200,
+      "win": true,
+      "championId": 21,
+      "participantId": 10,
+      "goldEarned": 15966,
+      "kills": 8
+    }
+  ]
+}

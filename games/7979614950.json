@@ -1,0 +1,597 @@
+{
+  "runes": [
+    {
+      "perk3": 8237,
+      "summoner": "아앙아아",
+      "perkSubStyle": 8400,
+      "perk1": 8226,
+      "perk4": 8473,
+      "perk2": 8210,
+      "perk5": 8453,
+      "participantId": 1,
+      "perkPrimaryStyle": 8200,
+      "perk0": 8214
+    },
+    {
+      "perk3": 8299,
+      "summoner": "아하아하",
+      "perkSubStyle": 8400,
+      "perk1": 9111,
+      "perk4": 8444,
+      "perk2": 9105,
+      "perk5": 8453,
+      "participantId": 2,
+      "perkPrimaryStyle": 8000,
+      "perk0": 8010
+    },
+    {
+      "perk3": 8106,
+      "summoner": "연 꽃",
+      "perkSubStyle": 8200,
+      "perk1": 8139,
+      "perk4": 8226,
+      "perk2": 8140,
+      "perk5": 8210,
+      "participantId": 3,
+      "perkPrimaryStyle": 8100,
+      "perk0": 8112
+    },
+    {
+      "perk3": 8014,
+      "perkSubStyle": 8300,
+      "summoner": "강통짱",
+      "perk1": 8009,
+      "perk4": 8410,
+      "perk2": 9103,
+      "perk5": 8345,
+      "participantId": 4,
+      "perkPrimaryStyle": 8000,
+      "perk0": 8005
+    },
+    {
+      "perk3": 8014,
+      "perkSubStyle": 8300,
+      "summoner": "마 루",
+      "perk1": 9111,
+      "perk4": 8347,
+      "perk2": 9104,
+      "perk5": 8304,
+      "participantId": 5,
+      "perkPrimaryStyle": 8000,
+      "perk0": 8010
+    },
+    {
+      "perk3": 8017,
+      "summoner": "바즈큐즈",
+      "perkSubStyle": 8300,
+      "perk1": 8009,
+      "perk4": 8304,
+      "perk2": 9103,
+      "perk5": 8345,
+      "participantId": 6,
+      "perkPrimaryStyle": 8000,
+      "perk0": 8021
+    },
+    {
+      "perk3": 8451,
+      "perkSubStyle": 8300,
+      "summoner": "7r렌",
+      "perk1": 8401,
+      "perk4": 8345,
+      "perk2": 8444,
+      "perk5": 8347,
+      "participantId": 7,
+      "perkPrimaryStyle": 8400,
+      "perk0": 8437
+    },
+    {
+      "perk3": 8105,
+      "perkSubStyle": 8200,
+      "summoner": "아흣아흣",
+      "perk1": 8126,
+      "perk4": 8234,
+      "perk2": 8141,
+      "perk5": 8237,
+      "participantId": 8,
+      "perkPrimaryStyle": 8100,
+      "perk0": 8112
+    },
+    {
+      "perk3": 8237,
+      "perkSubStyle": 8300,
+      "summoner": "내전아저씨",
+      "perk1": 8226,
+      "perk4": 8316,
+      "perk2": 8210,
+      "perk5": 8313,
+      "participantId": 9,
+      "perkPrimaryStyle": 8200,
+      "perk0": 8214
+    },
+    {
+      "perk3": 8299,
+      "perkSubStyle": 8300,
+      "summoner": "최승남",
+      "perk1": 9111,
+      "perk4": 8304,
+      "perk2": 9104,
+      "perk5": 8347,
+      "participantId": 10,
+      "perkPrimaryStyle": 8000,
+      "perk0": 8008
+    }
+  ],
+  "graphs": {
+    "assists_per_player": [
+      {
+        "assists": 29,
+        "summoner": "아앙아아"
+      },
+      {
+        "assists": 14,
+        "summoner": "아하아하"
+      },
+      {
+        "assists": 20,
+        "summoner": "연 꽃"
+      },
+      {
+        "assists": 16,
+        "summoner": "강통짱"
+      },
+      {
+        "assists": 24,
+        "summoner": "마 루"
+      },
+      {
+        "assists": 8,
+        "summoner": "바즈큐즈"
+      },
+      {
+        "assists": 5,
+        "summoner": "7r렌"
+      },
+      {
+        "assists": 7,
+        "summoner": "아흣아흣"
+      },
+      {
+        "assists": 7,
+        "summoner": "내전아저씨"
+      },
+      {
+        "assists": 7,
+        "summoner": "최승남"
+      }
+    ],
+    "deaths_per_player": [
+      {
+        "summoner": "아앙아아",
+        "deaths": 4
+      },
+      {
+        "summoner": "아하아하",
+        "deaths": 3
+      },
+      {
+        "summoner": "연 꽃",
+        "deaths": 3
+      },
+      {
+        "summoner": "강통짱",
+        "deaths": 4
+      },
+      {
+        "summoner": "마 루",
+        "deaths": 4
+      },
+      {
+        "summoner": "바즈큐즈",
+        "deaths": 6
+      },
+      {
+        "summoner": "7r렌",
+        "deaths": 13
+      },
+      {
+        "summoner": "아흣아흣",
+        "deaths": 10
+      },
+      {
+        "summoner": "내전아저씨",
+        "deaths": 7
+      },
+      {
+        "summoner": "최승남",
+        "deaths": 10
+      }
+    ],
+    "kills_per_player": [
+      {
+        "summoner": "아앙아아",
+        "kills": 1
+      },
+      {
+        "summoner": "아하아하",
+        "kills": 20
+      },
+      {
+        "summoner": "연 꽃",
+        "kills": 3
+      },
+      {
+        "summoner": "강통짱",
+        "kills": 9
+      },
+      {
+        "summoner": "마 루",
+        "kills": 13
+      },
+      {
+        "summoner": "바즈큐즈",
+        "kills": 1
+      },
+      {
+        "summoner": "7r렌",
+        "kills": 2
+      },
+      {
+        "summoner": "아흣아흣",
+        "kills": 3
+      },
+      {
+        "summoner": "내전아저씨",
+        "kills": 7
+      },
+      {
+        "summoner": "최승남",
+        "kills": 5
+      }
+    ],
+    "gold_per_player": [
+      {
+        "summoner": "아앙아아",
+        "gold": 10636
+      },
+      {
+        "summoner": "아하아하",
+        "gold": 19767
+      },
+      {
+        "summoner": "연 꽃",
+        "gold": 13397
+      },
+      {
+        "summoner": "강통짱",
+        "gold": 16311
+      },
+      {
+        "summoner": "마 루",
+        "gold": 17632
+      },
+      {
+        "summoner": "바즈큐즈",
+        "gold": 13753
+      },
+      {
+        "summoner": "7r렌",
+        "gold": 11616
+      },
+      {
+        "summoner": "아흣아흣",
+        "gold": 9795
+      },
+      {
+        "summoner": "내전아저씨",
+        "gold": 15138
+      },
+      {
+        "summoner": "최승남",
+        "gold": 14352
+      }
+    ]
+  },
+  "overview": {
+    "gameType": "CUSTOM_GAME",
+    "teamBans": {
+      "100": [
+        {
+          "championId": 517,
+          "pickTurn": 1
+        },
+        {
+          "championId": 86,
+          "pickTurn": 3
+        },
+        {
+          "championId": 21,
+          "pickTurn": 5
+        },
+        {
+          "championId": 53,
+          "pickTurn": 8
+        },
+        {
+          "championId": 61,
+          "pickTurn": 10
+        }
+      ],
+      "200": [
+        {
+          "championId": 60,
+          "pickTurn": 2
+        },
+        {
+          "championId": 54,
+          "pickTurn": 4
+        },
+        {
+          "championId": 201,
+          "pickTurn": 6
+        },
+        {
+          "championId": 62,
+          "pickTurn": 7
+        },
+        {
+          "championId": 56,
+          "pickTurn": 9
+        }
+      ]
+    },
+    "gameMode": "CLASSIC",
+    "banSummary": {
+      "100": [
+        {
+          "championId": 517,
+          "pickTurn": 1
+        },
+        {
+          "championId": 86,
+          "pickTurn": 3
+        },
+        {
+          "championId": 21,
+          "pickTurn": 5
+        },
+        {
+          "championId": 53,
+          "pickTurn": 8
+        },
+        {
+          "championId": 61,
+          "pickTurn": 10
+        }
+      ],
+      "200": [
+        {
+          "championId": 60,
+          "pickTurn": 2
+        },
+        {
+          "championId": 54,
+          "pickTurn": 4
+        },
+        {
+          "championId": 201,
+          "pickTurn": 6
+        },
+        {
+          "championId": 62,
+          "pickTurn": 7
+        },
+        {
+          "championId": 56,
+          "pickTurn": 9
+        }
+      ]
+    },
+    "gameDuration": 2313,
+    "teams": [
+      {
+        "dominionVictoryScore": 0,
+        "firstBlood": true,
+        "bans": [
+          {
+            "championId": 517,
+            "pickTurn": 1
+          },
+          {
+            "championId": 86,
+            "pickTurn": 3
+          },
+          {
+            "championId": 21,
+            "pickTurn": 5
+          },
+          {
+            "championId": 53,
+            "pickTurn": 8
+          },
+          {
+            "championId": 61,
+            "pickTurn": 10
+          }
+        ],
+        "baronKills": 1,
+        "inhibitorKills": 2,
+        "firstBaron": false,
+        "dragonKills": 3,
+        "win": "Win",
+        "riftHeraldKills": 1,
+        "vilemawKills": 0,
+        "hordeKills": 3,
+        "firstDargon": true,
+        "firstInhibitor": true,
+        "firstTower": true,
+        "towerKills": 9,
+        "teamId": 100
+      },
+      {
+        "dominionVictoryScore": 0,
+        "firstBlood": false,
+        "bans": [
+          {
+            "championId": 60,
+            "pickTurn": 2
+          },
+          {
+            "championId": 54,
+            "pickTurn": 4
+          },
+          {
+            "championId": 201,
+            "pickTurn": 6
+          },
+          {
+            "championId": 62,
+            "pickTurn": 7
+          },
+          {
+            "championId": 56,
+            "pickTurn": 9
+          }
+        ],
+        "baronKills": 1,
+        "inhibitorKills": 0,
+        "firstBaron": true,
+        "dragonKills": 1,
+        "win": "Fail",
+        "riftHeraldKills": 0,
+        "vilemawKills": 0,
+        "hordeKills": 0,
+        "firstDargon": false,
+        "firstInhibitor": false,
+        "firstTower": false,
+        "towerKills": 3,
+        "teamId": 200
+      }
+    ],
+    "queueId": 3130,
+    "gameCreationDate": "2025-12-21T11:33:50.365Z",
+    "gameId": 7979614950,
+    "mapId": 11
+  },
+  "stats": [
+    {
+      "teamId": 100,
+      "assists": 29,
+      "totalDamageDealtToChampions": 10373,
+      "summoner": "아앙아아",
+      "kills": 1,
+      "win": true,
+      "championId": 902,
+      "participantId": 1,
+      "goldEarned": 10636,
+      "deaths": 4
+    },
+    {
+      "teamId": 100,
+      "win": true,
+      "totalDamageDealtToChampions": 63775,
+      "summoner": "아하아하",
+      "kills": 20,
+      "assists": 14,
+      "championId": 82,
+      "participantId": 2,
+      "goldEarned": 19767,
+      "deaths": 3
+    },
+    {
+      "kills": 3,
+      "win": true,
+      "totalDamageDealtToChampions": 37382,
+      "summoner": "연 꽃",
+      "assists": 20,
+      "deaths": 3,
+      "championId": 103,
+      "participantId": 3,
+      "goldEarned": 13397,
+      "teamId": 100
+    },
+    {
+      "teamId": 100,
+      "totalDamageDealtToChampions": 54448,
+      "win": true,
+      "summoner": "강통짱",
+      "kills": 9,
+      "assists": 16,
+      "championId": 22,
+      "participantId": 4,
+      "goldEarned": 16311,
+      "deaths": 4
+    },
+    {
+      "teamId": 100,
+      "assists": 24,
+      "totalDamageDealtToChampions": 32084,
+      "summoner": "마 루",
+      "win": true,
+      "deaths": 4,
+      "championId": 59,
+      "participantId": 5,
+      "goldEarned": 17632,
+      "kills": 13
+    },
+    {
+      "teamId": 200,
+      "totalDamageDealtToChampions": 42152,
+      "assists": 8,
+      "summoner": "바즈큐즈",
+      "kills": 1,
+      "win": false,
+      "championId": 901,
+      "participantId": 6,
+      "goldEarned": 13753,
+      "deaths": 6
+    },
+    {
+      "teamId": 200,
+      "assists": 5,
+      "win": false,
+      "summoner": "7r렌",
+      "totalDamageDealtToChampions": 30639,
+      "deaths": 13,
+      "championId": 897,
+      "participantId": 7,
+      "goldEarned": 11616,
+      "kills": 2
+    },
+    {
+      "kills": 3,
+      "assists": 7,
+      "totalDamageDealtToChampions": 19999,
+      "summoner": "아흣아흣",
+      "deaths": 10,
+      "win": false,
+      "championId": 432,
+      "participantId": 8,
+      "goldEarned": 9795,
+      "teamId": 200
+    },
+    {
+      "teamId": 200,
+      "win": false,
+      "assists": 7,
+      "summoner": "내전아저씨",
+      "totalDamageDealtToChampions": 35797,
+      "deaths": 7,
+      "championId": 14,
+      "participantId": 9,
+      "goldEarned": 15138,
+      "kills": 7
+    },
+    {
+      "teamId": 200,
+      "totalDamageDealtToChampions": 23058,
+      "assists": 7,
+      "summoner": "최승남",
+      "deaths": 10,
+      "win": false,
+      "championId": 24,
+      "participantId": 10,
+      "goldEarned": 14352,
+      "kills": 5
+    }
+  ]
+}

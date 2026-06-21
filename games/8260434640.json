@@ -1,0 +1,597 @@
+{
+  "runes": [
+    {
+      "perk3": 8299,
+      "summoner": "아하아하",
+      "perkSubStyle": 8400,
+      "perk1": 9101,
+      "perk4": 8451,
+      "perk2": 9104,
+      "perk5": 8446,
+      "participantId": 1,
+      "perkPrimaryStyle": 8000,
+      "perk0": 8008
+    },
+    {
+      "perk3": 8014,
+      "summoner": "Just this one",
+      "perkSubStyle": 8300,
+      "perk1": 9111,
+      "perk4": 8347,
+      "perk2": 9104,
+      "perk5": 8304,
+      "participantId": 2,
+      "perkPrimaryStyle": 8000,
+      "perk0": 8010
+    },
+    {
+      "perk3": 8236,
+      "summoner": "짱 룡",
+      "perkSubStyle": 8300,
+      "perk1": 8226,
+      "perk4": 8345,
+      "perk2": 8233,
+      "perk5": 8316,
+      "participantId": 3,
+      "perkPrimaryStyle": 8200,
+      "perk0": 8229
+    },
+    {
+      "perk3": 8014,
+      "summoner": "자신있게싸우자",
+      "perkSubStyle": 8200,
+      "perk1": 8009,
+      "perk4": 8233,
+      "perk2": 9104,
+      "perk5": 8236,
+      "participantId": 4,
+      "perkPrimaryStyle": 8000,
+      "perk0": 8021
+    },
+    {
+      "perk3": 8451,
+      "summoner": "아프다이",
+      "perkSubStyle": 8000,
+      "perk1": 8463,
+      "perk4": 9105,
+      "perk2": 8444,
+      "perk5": 9111,
+      "participantId": 5,
+      "perkPrimaryStyle": 8400,
+      "perk0": 8439
+    },
+    {
+      "perk3": 8453,
+      "summoner": "내전아저씨",
+      "perkSubStyle": 8100,
+      "perk1": 8401,
+      "perk4": 8126,
+      "perk2": 8444,
+      "perk5": 8106,
+      "participantId": 6,
+      "perkPrimaryStyle": 8400,
+      "perk0": 8437
+    },
+    {
+      "perk3": 8135,
+      "summoner": "연 꽃",
+      "perkSubStyle": 8000,
+      "perk1": 8143,
+      "perk4": 9104,
+      "perk2": 8140,
+      "perk5": 9111,
+      "participantId": 7,
+      "perkPrimaryStyle": 8100,
+      "perk0": 8128
+    },
+    {
+      "perk3": 8135,
+      "summoner": "go0595",
+      "perkSubStyle": 8400,
+      "perk1": 8143,
+      "perk4": 8473,
+      "perk2": 8140,
+      "perk5": 8401,
+      "participantId": 8,
+      "perkPrimaryStyle": 8100,
+      "perk0": 8112
+    },
+    {
+      "perk3": 8014,
+      "summoner": "아흣아흣",
+      "perkSubStyle": 8300,
+      "perk1": 8009,
+      "perk4": 8304,
+      "perk2": 9103,
+      "perk5": 8345,
+      "participantId": 9,
+      "perkPrimaryStyle": 8000,
+      "perk0": 8008
+    },
+    {
+      "perk3": 8237,
+      "summoner": "이지스 프레임 정성훈",
+      "perkSubStyle": 8400,
+      "perk1": 8226,
+      "perk4": 8473,
+      "perk2": 8210,
+      "perk5": 8453,
+      "participantId": 10,
+      "perkPrimaryStyle": 8200,
+      "perk0": 8214
+    }
+  ],
+  "overview": {
+    "gameType": "CUSTOM_GAME",
+    "teamBans": {
+      "100": [
+        {
+          "championId": 101,
+          "pickTurn": 1
+        },
+        {
+          "championId": 517,
+          "pickTurn": 3
+        },
+        {
+          "championId": 22,
+          "pickTurn": 5
+        },
+        {
+          "championId": 90,
+          "pickTurn": 8
+        },
+        {
+          "championId": 711,
+          "pickTurn": 10
+        }
+      ],
+      "200": [
+        {
+          "championId": 112,
+          "pickTurn": 2
+        },
+        {
+          "championId": 875,
+          "pickTurn": 4
+        },
+        {
+          "championId": 63,
+          "pickTurn": 6
+        },
+        {
+          "championId": 61,
+          "pickTurn": 7
+        },
+        {
+          "championId": 105,
+          "pickTurn": 9
+        }
+      ]
+    },
+    "gameMode": "CLASSIC",
+    "banSummary": {
+      "100": [
+        {
+          "championId": 101,
+          "pickTurn": 1
+        },
+        {
+          "championId": 517,
+          "pickTurn": 3
+        },
+        {
+          "championId": 22,
+          "pickTurn": 5
+        },
+        {
+          "championId": 90,
+          "pickTurn": 8
+        },
+        {
+          "championId": 711,
+          "pickTurn": 10
+        }
+      ],
+      "200": [
+        {
+          "championId": 112,
+          "pickTurn": 2
+        },
+        {
+          "championId": 875,
+          "pickTurn": 4
+        },
+        {
+          "championId": 63,
+          "pickTurn": 6
+        },
+        {
+          "championId": 61,
+          "pickTurn": 7
+        },
+        {
+          "championId": 105,
+          "pickTurn": 9
+        }
+      ]
+    },
+    "gameDuration": 1836,
+    "teams": [
+      {
+        "dominionVictoryScore": 0,
+        "firstBlood": false,
+        "bans": [
+          {
+            "championId": 101,
+            "pickTurn": 1
+          },
+          {
+            "championId": 517,
+            "pickTurn": 3
+          },
+          {
+            "championId": 22,
+            "pickTurn": 5
+          },
+          {
+            "championId": 90,
+            "pickTurn": 8
+          },
+          {
+            "championId": 711,
+            "pickTurn": 10
+          }
+        ],
+        "baronKills": 2,
+        "inhibitorKills": 1,
+        "firstBaron": true,
+        "dragonKills": 2,
+        "win": "Win",
+        "riftHeraldKills": 0,
+        "vilemawKills": 0,
+        "hordeKills": 0,
+        "firstDargon": true,
+        "firstInhibitor": true,
+        "firstTower": true,
+        "towerKills": 9,
+        "teamId": 100
+      },
+      {
+        "dominionVictoryScore": 0,
+        "firstBlood": true,
+        "bans": [
+          {
+            "championId": 112,
+            "pickTurn": 2
+          },
+          {
+            "championId": 875,
+            "pickTurn": 4
+          },
+          {
+            "championId": 63,
+            "pickTurn": 6
+          },
+          {
+            "championId": 61,
+            "pickTurn": 7
+          },
+          {
+            "championId": 105,
+            "pickTurn": 9
+          }
+        ],
+        "baronKills": 0,
+        "inhibitorKills": 0,
+        "firstBaron": false,
+        "dragonKills": 1,
+        "win": "Fail",
+        "riftHeraldKills": 1,
+        "vilemawKills": 0,
+        "hordeKills": 3,
+        "firstDargon": false,
+        "firstInhibitor": false,
+        "firstTower": false,
+        "towerKills": 2,
+        "teamId": 200
+      }
+    ],
+    "queueId": 3130,
+    "gameCreationDate": "2026-06-15T13:04:25.787Z",
+    "gameId": 8260434640,
+    "mapId": 11
+  },
+  "graphs": {
+    "assists_per_player": [
+      {
+        "assists": 10,
+        "summoner": "아하아하"
+      },
+      {
+        "assists": 17,
+        "summoner": "Just this one"
+      },
+      {
+        "assists": 8,
+        "summoner": "짱 룡"
+      },
+      {
+        "assists": 9,
+        "summoner": "자신있게싸우자"
+      },
+      {
+        "assists": 16,
+        "summoner": "아프다이"
+      },
+      {
+        "assists": 10,
+        "summoner": "내전아저씨"
+      },
+      {
+        "assists": 5,
+        "summoner": "연 꽃"
+      },
+      {
+        "assists": 7,
+        "summoner": "go0595"
+      },
+      {
+        "assists": 8,
+        "summoner": "아흣아흣"
+      },
+      {
+        "assists": 13,
+        "summoner": "이지스 프레임 정성훈"
+      }
+    ],
+    "deaths_per_player": [
+      {
+        "summoner": "아하아하",
+        "deaths": 7
+      },
+      {
+        "summoner": "Just this one",
+        "deaths": 4
+      },
+      {
+        "summoner": "짱 룡",
+        "deaths": 4
+      },
+      {
+        "summoner": "자신있게싸우자",
+        "deaths": 6
+      },
+      {
+        "summoner": "아프다이",
+        "deaths": 5
+      },
+      {
+        "summoner": "내전아저씨",
+        "deaths": 5
+      },
+      {
+        "summoner": "연 꽃",
+        "deaths": 8
+      },
+      {
+        "summoner": "go0595",
+        "deaths": 10
+      },
+      {
+        "summoner": "아흣아흣",
+        "deaths": 6
+      },
+      {
+        "summoner": "이지스 프레임 정성훈",
+        "deaths": 7
+      }
+    ],
+    "kills_per_player": [
+      {
+        "summoner": "아하아하",
+        "kills": 4
+      },
+      {
+        "summoner": "Just this one",
+        "kills": 11
+      },
+      {
+        "summoner": "짱 룡",
+        "kills": 7
+      },
+      {
+        "summoner": "자신있게싸우자",
+        "kills": 10
+      },
+      {
+        "summoner": "아프다이",
+        "kills": 4
+      },
+      {
+        "summoner": "내전아저씨",
+        "kills": 5
+      },
+      {
+        "summoner": "연 꽃",
+        "kills": 12
+      },
+      {
+        "summoner": "go0595",
+        "kills": 6
+      },
+      {
+        "summoner": "아흣아흣",
+        "kills": 2
+      },
+      {
+        "summoner": "이지스 프레임 정성훈",
+        "kills": 1
+      }
+    ],
+    "gold_per_player": [
+      {
+        "summoner": "아하아하",
+        "gold": 12427
+      },
+      {
+        "summoner": "Just this one",
+        "gold": 14897
+      },
+      {
+        "summoner": "짱 룡",
+        "gold": 13549
+      },
+      {
+        "summoner": "자신있게싸우자",
+        "gold": 16654
+      },
+      {
+        "summoner": "아프다이",
+        "gold": 10385
+      },
+      {
+        "summoner": "내전아저씨",
+        "gold": 11022
+      },
+      {
+        "summoner": "연 꽃",
+        "gold": 15148
+      },
+      {
+        "summoner": "go0595",
+        "gold": 10983
+      },
+      {
+        "summoner": "아흣아흣",
+        "gold": 11891
+      },
+      {
+        "summoner": "이지스 프레임 정성훈",
+        "gold": 7743
+      }
+    ]
+  },
+  "stats": [
+    {
+      "deaths": 7,
+      "assists": 10,
+      "totalDamageDealtToChampions": 23882,
+      "summoner": "아하아하",
+      "win": true,
+      "teamId": 100,
+      "championId": 150,
+      "participantId": 1,
+      "goldEarned": 12427,
+      "kills": 4
+    },
+    {
+      "deaths": 4,
+      "assists": 17,
+      "totalDamageDealtToChampions": 18008,
+      "summoner": "Just this one",
+      "win": true,
+      "teamId": 100,
+      "championId": 59,
+      "participantId": 2,
+      "goldEarned": 14897,
+      "kills": 11
+    },
+    {
+      "deaths": 4,
+      "assists": 8,
+      "totalDamageDealtToChampions": 22901,
+      "summoner": "짱 룡",
+      "win": true,
+      "teamId": 100,
+      "championId": 268,
+      "participantId": 3,
+      "goldEarned": 13549,
+      "kills": 7
+    },
+    {
+      "deaths": 6,
+      "assists": 9,
+      "totalDamageDealtToChampions": 34159,
+      "summoner": "자신있게싸우자",
+      "win": true,
+      "teamId": 100,
+      "championId": 51,
+      "participantId": 4,
+      "goldEarned": 16654,
+      "kills": 10
+    },
+    {
+      "deaths": 5,
+      "assists": 16,
+      "totalDamageDealtToChampions": 11804,
+      "summoner": "아프다이",
+      "win": true,
+      "teamId": 100,
+      "championId": 89,
+      "participantId": 5,
+      "goldEarned": 10385,
+      "kills": 4
+    },
+    {
+      "deaths": 5,
+      "assists": 10,
+      "totalDamageDealtToChampions": 17661,
+      "summoner": "내전아저씨",
+      "win": false,
+      "teamId": 200,
+      "championId": 98,
+      "participantId": 6,
+      "goldEarned": 11022,
+      "kills": 5
+    },
+    {
+      "deaths": 8,
+      "assists": 5,
+      "totalDamageDealtToChampions": 32076,
+      "summoner": "연 꽃",
+      "win": false,
+      "teamId": 200,
+      "championId": 104,
+      "participantId": 7,
+      "goldEarned": 15148,
+      "kills": 12
+    },
+    {
+      "deaths": 10,
+      "assists": 7,
+      "totalDamageDealtToChampions": 27164,
+      "summoner": "go0595",
+      "win": false,
+      "teamId": 200,
+      "championId": 131,
+      "participantId": 8,
+      "goldEarned": 10983,
+      "kills": 6
+    },
+    {
+      "deaths": 6,
+      "assists": 8,
+      "totalDamageDealtToChampions": 22062,
+      "summoner": "아흣아흣",
+      "win": false,
+      "teamId": 200,
+      "championId": 498,
+      "participantId": 9,
+      "goldEarned": 11891,
+      "kills": 2
+    },
+    {
+      "deaths": 7,
+      "assists": 13,
+      "totalDamageDealtToChampions": 5609,
+      "summoner": "이지스 프레임 정성훈",
+      "win": false,
+      "teamId": 200,
+      "championId": 16,
+      "participantId": 10,
+      "goldEarned": 7743,
+      "kills": 1
+    }
+  ]
+}

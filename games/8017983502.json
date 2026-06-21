@@ -1,0 +1,468 @@
+{
+  "runes": [
+    {
+      "perk3": 8236,
+      "summoner": "쌔뙤크",
+      "perkSubStyle": 8300,
+      "perk1": 8224,
+      "perk4": 8313,
+      "perk2": 8234,
+      "perk5": 8410,
+      "participantId": 1,
+      "perkPrimaryStyle": 8200,
+      "perk0": 8230
+    },
+    {
+      "perk3": 8232,
+      "summoner": "멘탈승천한승천이",
+      "perkSubStyle": 8300,
+      "perk1": 8275,
+      "perk4": 8321,
+      "perk2": 8234,
+      "perk5": 8347,
+      "participantId": 2,
+      "perkPrimaryStyle": 8200,
+      "perk0": 8230
+    },
+    {
+      "perk3": 8105,
+      "summoner": "바즈큐즈",
+      "perkSubStyle": 8000,
+      "perk1": 8126,
+      "perk4": 8009,
+      "perk2": 8140,
+      "perk5": 8017,
+      "participantId": 3,
+      "perkPrimaryStyle": 8100,
+      "perk0": 8112
+    },
+    {
+      "perk3": 8299,
+      "summoner": "무성무성",
+      "perkSubStyle": 8300,
+      "perk1": 9111,
+      "perk4": 8304,
+      "perk2": 9104,
+      "perk5": 8316,
+      "participantId": 4,
+      "perkPrimaryStyle": 8000,
+      "perk0": 8010
+    },
+    {
+      "perk3": 8135,
+      "summoner": "아하아하",
+      "perkSubStyle": 8300,
+      "perk1": 8143,
+      "perk4": 8313,
+      "perk2": 8140,
+      "perk5": 8347,
+      "participantId": 5,
+      "perkPrimaryStyle": 8100,
+      "perk0": 8128
+    },
+    {
+      "perk3": 8299,
+      "summoner": "아흣아흣",
+      "perkSubStyle": 8400,
+      "perk1": 9111,
+      "perk4": 8451,
+      "perk2": 9104,
+      "perk5": 8473,
+      "participantId": 6,
+      "perkPrimaryStyle": 8000,
+      "perk0": 8008
+    },
+    {
+      "perk3": 8242,
+      "summoner": "내전아저씨",
+      "perkSubStyle": 8000,
+      "perk1": 8463,
+      "perk4": 9104,
+      "perk2": 8429,
+      "perk5": 9111,
+      "participantId": 7,
+      "perkPrimaryStyle": 8400,
+      "perk0": 8439
+    },
+    {
+      "perk3": 8347,
+      "summoner": "go0595",
+      "perkSubStyle": 8200,
+      "perk1": 8321,
+      "perk4": 8226,
+      "perk2": 8313,
+      "perk5": 8210,
+      "participantId": 8,
+      "perkPrimaryStyle": 8300,
+      "perk0": 8369
+    },
+    {
+      "perk3": 8017,
+      "summoner": "연 꽃",
+      "perkSubStyle": 8100,
+      "perk1": 9111,
+      "perk4": 8143,
+      "perk2": 9104,
+      "perk5": 8106,
+      "participantId": 9,
+      "perkPrimaryStyle": 8000,
+      "perk0": 8005
+    },
+    {
+      "perk3": 8242,
+      "summoner": "최승남",
+      "perkSubStyle": 8300,
+      "perk1": 8463,
+      "perk4": 8345,
+      "perk2": 8473,
+      "perk5": 8347,
+      "participantId": 10,
+      "perkPrimaryStyle": 8400,
+      "perk0": 8439
+    }
+  ],
+  "overview": {
+    "gameType": "CUSTOM_GAME",
+    "teamBans": {
+      "100": [],
+      "200": []
+    },
+    "gameMode": "CLASSIC",
+    "banSummary": "No bans recorded",
+    "gameDuration": 1699,
+    "teams": [
+      {
+        "dominionVictoryScore": 0,
+        "firstBlood": true,
+        "bans": [],
+        "baronKills": 0,
+        "inhibitorKills": 0,
+        "firstBaron": false,
+        "dragonKills": 1,
+        "win": "Fail",
+        "riftHeraldKills": 1,
+        "vilemawKills": 0,
+        "hordeKills": 3,
+        "firstDargon": false,
+        "firstInhibitor": false,
+        "firstTower": false,
+        "towerKills": 1,
+        "teamId": 100
+      },
+      {
+        "dominionVictoryScore": 0,
+        "firstBlood": false,
+        "bans": [],
+        "baronKills": 1,
+        "inhibitorKills": 2,
+        "firstBaron": true,
+        "dragonKills": 3,
+        "win": "Win",
+        "riftHeraldKills": 0,
+        "vilemawKills": 0,
+        "hordeKills": 0,
+        "firstDargon": true,
+        "firstInhibitor": true,
+        "firstTower": true,
+        "towerKills": 8,
+        "teamId": 200
+      }
+    ],
+    "queueId": 3100,
+    "gameCreationDate": "2026-01-09T14:08:47.406Z",
+    "gameId": 8017983502,
+    "mapId": 11
+  },
+  "graphs": {
+    "assists_per_player": [
+      {
+        "assists": 2,
+        "summoner": "쌔뙤크"
+      },
+      {
+        "assists": 4,
+        "summoner": "멘탈승천한승천이"
+      },
+      {
+        "assists": 5,
+        "summoner": "바즈큐즈"
+      },
+      {
+        "assists": 7,
+        "summoner": "무성무성"
+      },
+      {
+        "assists": 9,
+        "summoner": "아하아하"
+      },
+      {
+        "assists": 1,
+        "summoner": "아흣아흣"
+      },
+      {
+        "assists": 14,
+        "summoner": "내전아저씨"
+      },
+      {
+        "assists": 8,
+        "summoner": "go0595"
+      },
+      {
+        "assists": 12,
+        "summoner": "연 꽃"
+      },
+      {
+        "assists": 25,
+        "summoner": "최승남"
+      }
+    ],
+    "deaths_per_player": [
+      {
+        "summoner": "쌔뙤크",
+        "deaths": 7
+      },
+      {
+        "summoner": "멘탈승천한승천이",
+        "deaths": 9
+      },
+      {
+        "summoner": "바즈큐즈",
+        "deaths": 6
+      },
+      {
+        "summoner": "무성무성",
+        "deaths": 12
+      },
+      {
+        "summoner": "아하아하",
+        "deaths": 9
+      },
+      {
+        "summoner": "아흣아흣",
+        "deaths": 3
+      },
+      {
+        "summoner": "내전아저씨",
+        "deaths": 3
+      },
+      {
+        "summoner": "go0595",
+        "deaths": 4
+      },
+      {
+        "summoner": "연 꽃",
+        "deaths": 5
+      },
+      {
+        "summoner": "최승남",
+        "deaths": 8
+      }
+    ],
+    "kills_per_player": [
+      {
+        "summoner": "쌔뙤크",
+        "kills": 3
+      },
+      {
+        "summoner": "멘탈승천한승천이",
+        "kills": 5
+      },
+      {
+        "summoner": "바즈큐즈",
+        "kills": 3
+      },
+      {
+        "summoner": "무성무성",
+        "kills": 2
+      },
+      {
+        "summoner": "아하아하",
+        "kills": 10
+      },
+      {
+        "summoner": "아흣아흣",
+        "kills": 18
+      },
+      {
+        "summoner": "내전아저씨",
+        "kills": 2
+      },
+      {
+        "summoner": "go0595",
+        "kills": 6
+      },
+      {
+        "summoner": "연 꽃",
+        "kills": 13
+      },
+      {
+        "summoner": "최승남",
+        "kills": 4
+      }
+    ],
+    "gold_per_player": [
+      {
+        "summoner": "쌔뙤크",
+        "gold": 10489
+      },
+      {
+        "summoner": "멘탈승천한승천이",
+        "gold": 10877
+      },
+      {
+        "summoner": "바즈큐즈",
+        "gold": 10797
+      },
+      {
+        "summoner": "무성무성",
+        "gold": 10530
+      },
+      {
+        "summoner": "아하아하",
+        "gold": 11467
+      },
+      {
+        "summoner": "아흣아흣",
+        "gold": 17009
+      },
+      {
+        "summoner": "내전아저씨",
+        "gold": 10747
+      },
+      {
+        "summoner": "go0595",
+        "gold": 13239
+      },
+      {
+        "summoner": "연 꽃",
+        "gold": 15534
+      },
+      {
+        "summoner": "최승남",
+        "gold": 10083
+      }
+    ]
+  },
+  "stats": [
+    {
+      "deaths": 7,
+      "assists": 2,
+      "totalDamageDealtToChampions": 16726,
+      "summoner": "쌔뙤크",
+      "win": false,
+      "teamId": 100,
+      "championId": 77,
+      "participantId": 1,
+      "goldEarned": 10489,
+      "kills": 3
+    },
+    {
+      "deaths": 9,
+      "assists": 4,
+      "totalDamageDealtToChampions": 15373,
+      "summoner": "멘탈승천한승천이",
+      "win": false,
+      "teamId": 100,
+      "championId": 57,
+      "participantId": 2,
+      "goldEarned": 10877,
+      "kills": 5
+    },
+    {
+      "deaths": 6,
+      "assists": 5,
+      "totalDamageDealtToChampions": 17172,
+      "summoner": "바즈큐즈",
+      "win": false,
+      "teamId": 100,
+      "championId": 34,
+      "participantId": 3,
+      "goldEarned": 10797,
+      "kills": 3
+    },
+    {
+      "deaths": 12,
+      "assists": 7,
+      "totalDamageDealtToChampions": 13007,
+      "summoner": "무성무성",
+      "win": false,
+      "teamId": 100,
+      "championId": 895,
+      "participantId": 4,
+      "goldEarned": 10530,
+      "kills": 2
+    },
+    {
+      "deaths": 9,
+      "assists": 9,
+      "totalDamageDealtToChampions": 27658,
+      "summoner": "아하아하",
+      "win": false,
+      "teamId": 100,
+      "championId": 517,
+      "participantId": 5,
+      "goldEarned": 11467,
+      "kills": 10
+    },
+    {
+      "deaths": 3,
+      "assists": 1,
+      "totalDamageDealtToChampions": 40483,
+      "summoner": "아흣아흣",
+      "win": true,
+      "teamId": 200,
+      "championId": 110,
+      "participantId": 6,
+      "goldEarned": 17009,
+      "kills": 18
+    },
+    {
+      "deaths": 3,
+      "assists": 14,
+      "totalDamageDealtToChampions": 14730,
+      "summoner": "내전아저씨",
+      "win": true,
+      "teamId": 200,
+      "championId": 33,
+      "participantId": 7,
+      "goldEarned": 10747,
+      "kills": 2
+    },
+    {
+      "deaths": 4,
+      "assists": 8,
+      "totalDamageDealtToChampions": 28315,
+      "summoner": "go0595",
+      "win": true,
+      "teamId": 200,
+      "championId": 134,
+      "participantId": 8,
+      "goldEarned": 13239,
+      "kills": 6
+    },
+    {
+      "deaths": 5,
+      "assists": 12,
+      "totalDamageDealtToChampions": 38802,
+      "summoner": "연 꽃",
+      "win": true,
+      "teamId": 200,
+      "championId": 29,
+      "participantId": 9,
+      "goldEarned": 15534,
+      "kills": 13
+    },
+    {
+      "deaths": 8,
+      "assists": 25,
+      "totalDamageDealtToChampions": 17284,
+      "summoner": "최승남",
+      "win": true,
+      "teamId": 200,
+      "championId": 412,
+      "participantId": 10,
+      "goldEarned": 10083,
+      "kills": 4
+    }
+  ]
+}
