@@ -195,9 +195,16 @@ def generate_report_from_eog(eog_data: dict) -> dict:
         "gameDuration": eog_data.get("gameLength"),
         "queueId": eog_data.get("queueId"),
         "teams": teams_raw,
-        "teamBans": {},
-        "banSummary": "No bans recorded",
+        "teamBans": {
+            t.get("teamId"): list(t.get("bans", []))
+            for t in teams_raw
+        },
     }
+    tb = overview.get("teamBans", {})
+    if not any(tb.values()):
+        overview["banSummary"] = "No bans recorded"
+    else:
+        overview["banSummary"] = {tid: bans for tid, bans in tb.items() if bans}
 
     stats = []
     for i, p in enumerate(all_players):
