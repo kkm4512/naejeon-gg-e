@@ -4,6 +4,7 @@
 import os
 import re
 import subprocess
+from datetime import datetime, timezone
 from typing import Optional
 
 import requests
@@ -191,7 +192,7 @@ def generate_report_from_eog(eog_data: dict) -> dict:
         "gameMode": eog_data.get("gameMode"),
         "gameType": eog_data.get("gameType"),
         "mapId": eog_data.get("mapId"),
-        "gameCreationDate": eog_data.get("gameCreationDate"),
+        "gameCreationDate": eog_data.get("gameCreationDate") or datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.000Z"),
         "gameDuration": eog_data.get("gameLength"),
         "queueId": eog_data.get("queueId"),
         "teams": teams_raw,
