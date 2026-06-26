@@ -272,6 +272,17 @@ def trigger_discord_notification(game_id: int) -> None:
     })
 
 
+def trigger_discord_aborted_notification(game_id: int) -> None:
+    """탈주 게임 Discord 봇 자동 포스팅 트리거."""
+    _init_firebase()
+    db = firestore.client()
+    db.collection("game_triggers").document(str(game_id)).set({
+        "gameId": game_id,
+        "processed": False,
+        "type": "aborted",
+    })
+
+
 def save_aborted_game_to_firebase(game_id: int, teams: Optional[dict] = None) -> bool:
     """조기 종료(탈주) 게임을 Firebase에 저장.
 

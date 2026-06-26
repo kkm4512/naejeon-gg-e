@@ -187,15 +187,24 @@ class LobbyManager:
         try:
             save_aborted_game_to_firebase(game_id, teams=teams)
             log_fn(f"[저장] Game {game_id} 탈주 기록 저장됨 (desertionCount=1)")
+            self._trigger_discord_aborted(game_id, log_fn)
         except Exception as e:
             log_fn(f"[Lobby] 탈주 기록 저장 오류: {e}")
+
+    def _trigger_discord_aborted(self, game_id: int, log_fn) -> None:
+        try:
+            from league_client_api import trigger_discord_aborted_notification
+            trigger_discord_aborted_notification(game_id)
+            log_fn(f"[Discord] 탈주 트리거 전송 (game_id={game_id})")
+        except Exception as e:
+            log_fn(f"[Discord] 탈주 트리거 실패: {e}")
 
     def _try_save_game(self, game_id: int, eog_data: Optional[dict], log_fn) -> None:
         """게임 데이터 Firebase 저장 공통 로직."""
         from league_client_api import (
             game_exists_in_firebase, report_game_by_id, save_eog_to_firebase,
         )
-        _MIN_GAME_DURATION = 600
+        _MIN_GAME_DURATION = 0
 
         self._eog_saved_ids.add(game_id)
 
