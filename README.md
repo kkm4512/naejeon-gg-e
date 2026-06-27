@@ -1,4 +1,4 @@
-# lol-custom-exe
+# najeon-gg-e
 
 롤(League of Legends) 커스텀 게임 전적을 **자동으로** 감지하고 Firebase에 저장하는 도구입니다.
 
